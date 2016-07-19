@@ -1,0 +1,8 @@
+"fileTypes": [
+    'feature'
+]
+"name": 'Gherkin'
+"patterns": [
+
+]
+"scopeName": 'source.feature'
