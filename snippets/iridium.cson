@@ -1,4 +1,4 @@
-'.gherkin.feature':
+'.source.feature':
   '1':
     'prefix': 'click the element found by \"identifier\"'
     'body': 'click the element found by \"$1\"'
