@@ -4,7 +4,7 @@
     'prefix': 'save the text content the element found by "identifier" to the alias "alias"'
     'body': 'save the text content the element found by "$1" to the alias "$2"'
   'save102':
-    'prefix': 'save the text content the element found by alias "alias identifier" to the alias "$2"'
+    'prefix': 'save the text content the element found by alias "alias identifier" to the alias "alias"'
     'body': 'save the text content the element found by alias "$1" to the alias "$2"'
   'save103':
     'prefix': 'save the text content the element found by "identifier" to the alias "$2" if it exists'
