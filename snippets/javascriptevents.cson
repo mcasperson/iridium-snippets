@@ -1,0 +1,13 @@
+'.source.feature':
+  '1':
+    'prefix': '"mouse<something>" on the hidden element found by "identifier"'
+    'body': '"mousedown" on the hidden element found by "$1"'
+  '2':
+    'prefix': '"mouse<something>" on the hidden element found by "identifier" if it exists'
+    'body': '"mouse<something>" on the hidden element found by "$1" if it exists'
+  '3':
+    'prefix': '"mouse<something>" on the hidden element found by alias "alias name"'
+    'body': '"mouse<something>" on the hidden element found by alias "$1"'
+  '4':
+    'prefix': '"mouse<something>" on the hidden element found by alias "alias name" if it exists'
+    'body': '"mouse<something>" on the hidden element found by alias "$1" if it exists'       
