@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "iridium-snippets:toggle"
   },
-  "repository": "https://github.com/atom/iridium-snippets",
+  "repository": "https://github.com/mcasperson/iridium-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
