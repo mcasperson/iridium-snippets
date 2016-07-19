@@ -1,367 +1,367 @@
 '.source.feature':
 
   'save101':
-    'prefix': 'save the text content the element found by "$1" to the alias "$2"'
+    'prefix': 'save the text content the element found by "identifier" to the alias "alias"'
     'body': 'save the text content the element found by "$1" to the alias "$2"'
   'save102':
     'prefix': 'save the text content the element found by alias "alias identifier" to the alias "$2"'
     'body': 'save the text content the element found by alias "$1" to the alias "$2"'
   'save103':
-    'prefix': 'save the text content the element found by "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element found by "identifier" to the alias "$2" if it exists'
     'body': 'save the text content the element found by "$1" to the alias "$2" if it exists'
   'save104':
-    'prefix': 'save the text content the element found by alias "alias identifier" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element found by alias "alias identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element found by alias "$1" to the alias "$2" if it exists'
   'save110':
-    'prefix': 'save the text content the element with the ID of "$1" to the alias "$2"'
+    'prefix': 'save the text content the element with the ID of "identifier" to the alias "alias"'
     'body': 'save the text content the element with the ID of "$1" to the alias "$2"'
   'save111':
-    'prefix': 'save the text content the element with the class of "$1" to the alias "$2"'
+    'prefix': 'save the text content the element with the class of "identifier" to the alias "alias"'
     'body': 'save the text content the element with the class of "$1" to the alias "$2"'
   'save112':
-    'prefix': 'save the text content the element with the xpath of "$1" to the alias "$2"'
+    'prefix': 'save the text content the element with the xpath of "identifier" to the alias "alias"'
     'body': 'save the text content the element with the xpath of "$1" to the alias "$2"'
   'save113':
-    'prefix': 'save the text content the element with the name of "$1" to the alias "$2"'
+    'prefix': 'save the text content the element with the name of "identifier" to the alias "alias"'
     'body': 'save the text content the element with the name of "$1" to the alias "$2"'
   'save114':
-    'prefix': 'save the text content the element with the css selector of "$1" to the alias "$2"'
+    'prefix': 'save the text content the element with the css selector of "identifier" to the alias "alias"'
     'body': 'save the text content the element with the css selector of "$1" to the alias "$2"'
   'save120':
-    'prefix': 'save the text content the element with the ID of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the ID of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element with the ID of "$1" to the alias "$2" if it exists'
   'save121':
-    'prefix': 'save the text content the element with the class of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the class of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element with the class of "$1" to the alias "$2" if it exists'
   'save122':
-    'prefix': 'save the text content the element with the xpath of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the xpath of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element with the xpath of "$1" to the alias "$2" if it exists'
   'save123':
-    'prefix': 'save the text content the element with the name of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the name of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element with the name of "$1" to the alias "$2" if it exists'
   'save124':
-    'prefix': 'save the text content the element with the css selector of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the css selector of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the element with the css selector of "$1" to the alias "$2" if it exists'
   'save130':
-    'prefix': 'save the text content the element with the ID alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the element with the ID alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the element with the ID alias of "$1" to the alias "$2"'
   'save131':
-    'prefix': 'save the text content the element with the class alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the element with the class alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the element with the class alias of "$1" to the alias "$2"'
   'save132':
-    'prefix': 'save the text content the element with the xpath alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the element with the xpath alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the element with the xpath alias of "$1" to the alias "$2"'
   'save133':
-    'prefix': 'save the text content the element with the name alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the element with the name alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the element with the name alias of "$1" to the alias "$2"'
   'save134':
-    'prefix': 'save the text content the element with the css selector alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the element with the css selector alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the element with the css selector alias of "$1" to the alias "$2"'
   'save140':
-    'prefix': 'save the text content the element with the ID alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the ID alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the element with the ID alias of "$1" to the alias "$2" if it exists'
   'save141':
-    'prefix': 'save the text content the element with the class alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the class alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the element with the class alias of "$1" to the alias "$2" if it exists'
   'save142':
-    'prefix': 'save the text content the element with the xpath alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the xpath alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the element with the xpath alias of "$1" to the alias "$2" if it exists'
   'save143':
-    'prefix': 'save the text content the element with the name alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the name alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the element with the name alias of "$1" to the alias "$2" if it exists'
   'save144':
-    'prefix': 'save the text content the element with the css selector alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the element with the css selector alias of "$1" to the alias "$2" if it exists'
 
   'save201':
-    'prefix': 'save the text content the hidden element found by "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element found by "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element found by "$1" to the alias "$2"'
   'save202':
-    'prefix': 'save the text content the hidden element found by alias "alias identifier" to the alias "$2"'
+    'prefix': 'save the text content the hidden element found by alias "alias identifier" to the alias "alias"'
     'body': 'save the text content the hidden element found by alias "$1" to the alias "$2"'
   'save203':
-    'prefix': 'save the text content the hidden element found by "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element found by "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element found by "$1" to the alias "$2" if it exists'
   'save204':
-    'prefix': 'save the text content the hidden element found by alias "alias identifier" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element found by alias "alias identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element found by alias "$1" to the alias "$2" if it exists'
   'save210':
-    'prefix': 'save the text content the hidden element with the ID of "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the ID of "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element with the ID of "$1" to the alias "$2"'
   'save211':
-    'prefix': 'save the text content the hidden element with the class of "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the class of "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element with the class of "$1" to the alias "$2"'
   'save212':
-    'prefix': 'save the text content the hidden element with the xpath of "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the xpath of "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element with the xpath of "$1" to the alias "$2"'
   'save213':
-    'prefix': 'save the text content the hidden element with the name of "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the name of "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element with the name of "$1" to the alias "$2"'
   'save214':
-    'prefix': 'save the text content the hidden element with the css selector of "$1" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the css selector of "identifier" to the alias "alias"'
     'body': 'save the text content the hidden element with the css selector of "$1" to the alias "$2"'
   'save220':
-    'prefix': 'save the text content the hidden element with the ID of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the ID of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the ID of "$1" to the alias "$2" if it exists'
   'save221':
-    'prefix': 'save the text content the hidden element with the class of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the class of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the class of "$1" to the alias "$2" if it exists'
   'save222':
-    'prefix': 'save the text content the hidden element with the xpath of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the xpath of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the xpath of "$1" to the alias "$2" if it exists'
   'save223':
-    'prefix': 'save the text content the hidden element with the name of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the name of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the name of "$1" to the alias "$2" if it exists'
   'save224':
-    'prefix': 'save the text content the hidden element with the css selector of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the css selector of "identifier" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the css selector of "$1" to the alias "$2" if it exists'
   'save230':
-    'prefix': 'save the text content the hidden element with the ID alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the ID alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the hidden element with the ID alias of "$1" to the alias "$2"'
   'save231':
-    'prefix': 'save the text content the hidden element with the class alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the class alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the hidden element with the class alias of "$1" to the alias "$2"'
   'save232':
-    'prefix': 'save the text content the hidden element with the xpath alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the xpath alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the hidden element with the xpath alias of "$1" to the alias "$2"'
   'save233':
-    'prefix': 'save the text content the hidden element with the name alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the name alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the hidden element with the name alias of "$1" to the alias "$2"'
   'save234':
-    'prefix': 'save the text content the hidden element with the css selector alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the text content the hidden element with the css selector alias of "identifier alias" to the alias "alias"'
     'body': 'save the text content the hidden element with the css selector alias of "$1" to the alias "$2"'
   'save240':
-    'prefix': 'save the text content the hidden element with the ID alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the ID alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the ID alias of "$1" to the alias "$2" if it exists'
   'save241':
-    'prefix': 'save the text content the hidden element with the class alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the class alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the class alias of "$1" to the alias "$2" if it exists'
   'save242':
-    'prefix': 'save the text content the hidden element with the xpath alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the xpath alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the xpath alias of "$1" to the alias "$2" if it exists'
   'save243':
-    'prefix': 'save the text content the hidden element with the name alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the name alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the name alias of "$1" to the alias "$2" if it exists'
   'save244':
-    'prefix': 'save the text content the hidden element with the css selector alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the text content the hidden element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the text content the hidden element with the css selector alias of "$1" to the alias "$2" if it exists'
 
   'save301':
-    'prefix': 'save the attribute content of "attribute" from the element found by "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element found by "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element found by "$2" to the alias "$3"'
   'save302':
-    'prefix': 'save the attribute content of "attribute" from the element found by alias "alias identifier" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element found by alias "alias identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element found by alias "$2" to the alias "$3"'
   'save303':
-    'prefix': 'save the attribute content of "attribute" from the element found by "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element found by "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element found by "$2" to the alias "$3" if it exists'
   'save304':
-    'prefix': 'save the attribute content of "attribute" from the element found by alias "alias identifier" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element found by alias "alias identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element found by alias "$2" to the alias "$3" if it exists'
   'save310':
-    'prefix': 'save the attribute content of "attribute" from the element with the ID of "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the ID of "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the ID of "$2" to the alias "$3"'
   'save311':
-    'prefix': 'save the attribute content of "attribute" from the element with the class of "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the class of "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the class of "$2" to the alias "$3"'
   'save312':
-    'prefix': 'save the attribute content of "attribute" from the element with the xpath of "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the xpath of "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the xpath of "$2" to the alias "$3"'
   'save313':
-    'prefix': 'save the attribute content of "attribute" from the element with the name of "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the name of "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the name of "$2" to the alias "$3"'
   'save314':
-    'prefix': 'save the attribute content of "attribute" from the element with the css selector of "$2" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the css selector of "identifier" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the css selector of "$2" to the alias "$3"'
   'save320':
-    'prefix': 'save the attribute content of "attribute" from the element with the ID of "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the ID of "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the ID of "$2" to the alias "$3" if it exists'
   'save321':
-    'prefix': 'save the attribute content of "attribute" from the element with the class of "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the class of "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the class of "$2" to the alias "$3" if it exists'
   'save322':
-    'prefix': 'save the attribute content of "attribute" from the element with the xpath of "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the xpath of "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the xpath of "$2" to the alias "$3" if it exists'
   'save323':
-    'prefix': 'save the attribute content of "attribute" from the element with the name of "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the name of "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the name of "$2" to the alias "$3" if it exists'
   'save324':
-    'prefix': 'save the attribute content of "attribute" from the element with the css selector of "$2" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the css selector of "identifier" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the css selector of "$2" to the alias "$3" if it exists'
   'save330':
-    'prefix': 'save the attribute content of "attribute" from the element with the ID alias of "identifier alias" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the ID alias of "identifier alias" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the ID alias of "$2" to the alias "$3"'
   'save331':
-    'prefix': 'save the attribute content of "attribute" from the element with the class alias of "identifier alias" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the class alias of "identifier alias" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the class alias of "$2" to the alias "$3"'
   'save332':
-    'prefix': 'save the attribute content of "attribute" from the element with the xpath alias of "identifier alias" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the xpath alias of "identifier alias" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the xpath alias of "$2" to the alias "$3"'
   'save333':
-    'prefix': 'save the attribute content of "attribute" from the element with the name alias of "identifier alias" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the name alias of "identifier alias" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the name alias of "$2" to the alias "$3"'
   'save334':
-    'prefix': 'save the attribute content of "attribute" from the element with the css selector alias of "identifier alias" to the alias "$3"'
+    'prefix': 'save the attribute content of "attribute" from the element with the css selector alias of "identifier alias" to the alias "alias"'
     'body': 'save the attribute content of "$1" from the element with the css selector alias of "$2" to the alias "$3"'
   'save340':
-    'prefix': 'save the attribute content of "attribute" from the element with the ID alias of "identifier alias" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the ID alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the ID alias of "$2" to the alias "$3" if it exists'
   'save341':
-    'prefix': 'save the attribute content of "attribute" from the element with the class alias of "identifier alias" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the class alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the class alias of "$2" to the alias "$3" if it exists'
   'save342':
-    'prefix': 'save the attribute content of "attribute" from the element with the xpath alias of "identifier alias" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the xpath alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the xpath alias of "$2" to the alias "$3" if it exists'
   'save343':
-    'prefix': 'save the attribute content of "attribute" from the element with the name alias of "identifier alias" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the name alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the name alias of "$2" to the alias "$3" if it exists'
   'save344':
-    'prefix': 'save the attribute content of "attribute" from the element with the css selector alias of "identifier alias" to the alias "$3" if it exists'
+    'prefix': 'save the attribute content of "attribute" from the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the css selector alias of "$2" to the alias "$3" if it exists'
 
 '.source.feature':
   'save1':
-    'prefix': 'save the value of the element found by "$1" to the alias "$2"'
+    'prefix': 'save the value of the element found by identifier" to the alias "alias"'
     'body': 'save the value of the element found by "$1" to the alias "$2"'
   'save2':
-    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "$2"'
+    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "alias"'
     'body': 'save the value of the element found by alias "$1" to the alias "$2"'
   'save3':
-    'prefix': 'save the value of the element found by "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element found by "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element found by "$1" to the alias "$2" if it exists'
   'save4':
-    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element found by alias "$1" to the alias "$2" if it exists'
   'save10':
-    'prefix': 'save the value of the element with the ID of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the ID of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the ID of "$1" to the alias "$2"'
   'save11':
-    'prefix': 'save the value of the element with the class of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the class of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the class of "$1" to the alias "$2"'
   'save12':
-    'prefix': 'save the value of the element with the xpath of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the xpath of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the xpath of "$1" to the alias "$2"'
   'save13':
-    'prefix': 'save the value of the element with the name of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the name of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the name of "$1" to the alias "$2"'
   'save14':
-    'prefix': 'save the value of the element with the css selector of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the css selector of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the css selector of "$1" to the alias "$2"'
   'save20':
-    'prefix': 'save the value of the element with the ID of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the ID of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the ID of "$1" to the alias "$2" if it exists'
   'save21':
-    'prefix': 'save the value of the element with the class of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the class of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the class of "$1" to the alias "$2" if it exists'
   'save22':
-    'prefix': 'save the value of the element with the xpath of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the xpath of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the xpath of "$1" to the alias "$2" if it exists'
   'save23':
-    'prefix': 'save the value of the element with the name of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the name of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the name of "$1" to the alias "$2" if it exists'
   'save24':
-    'prefix': 'save the value of the element with the css selector of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the css selector of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the css selector of "$1" to the alias "$2" if it exists'
   'save30':
-    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the ID alias of "$1" to the alias "$2"'
   'save31':
-    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the class alias of "$1" to the alias "$2"'
   'save32':
-    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the xpath alias of "$1" to the alias "$2"'
   'save33':
-    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the name alias of "$1" to the alias "$2"'
   'save34':
-    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the css selector alias of "$1" to the alias "$2"'
   'save40':
-    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the ID alias of "$1" to the alias "$2" if it exists'
   'save41':
-    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the class alias of "$1" to the alias "$2" if it exists'
   'save42':
-    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the xpath alias of "$1" to the alias "$2" if it exists'
   'save43':
-    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the name alias of "$1" to the alias "$2" if it exists'
   'save44':
-    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the css selector alias of "$1" to the alias "$2" if it exists'
 
   'save501':
-    'prefix': 'save the value of the element found by "$1" to the alias "$2"'
+    'prefix': 'save the value of the element found by "identifier" to the alias "alias"'
     'body': 'save the value of the element found by "$1" to the alias "$2"'
   'save502':
-    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "$2"'
+    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "alias"'
     'body': 'save the value of the element found by alias "$1" to the alias "$2"'
   'save503':
-    'prefix': 'save the value of the element found by "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element found by "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element found by "$1" to the alias "$2" if it exists'
   'save504':
-    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element found by alias "alias identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element found by alias "$1" to the alias "$2" if it exists'
   'save510':
-    'prefix': 'save the value of the element with the ID of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the ID of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the ID of "$1" to the alias "$2"'
   'save511':
-    'prefix': 'save the value of the element with the class of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the class of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the class of "$1" to the alias "$2"'
   'save512':
-    'prefix': 'save the value of the element with the xpath of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the xpath of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the xpath of "$1" to the alias "$2"'
   'save513':
-    'prefix': 'save the value of the element with the name of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the name of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the name of "$1" to the alias "$2"'
   'save514':
-    'prefix': 'save the value of the element with the css selector of "$1" to the alias "$2"'
+    'prefix': 'save the value of the element with the css selector of "identifier" to the alias "alias"'
     'body': 'save the value of the element with the css selector of "$1" to the alias "$2"'
   'save520':
-    'prefix': 'save the value of the element with the ID of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the ID of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the ID of "$1" to the alias "$2" if it exists'
   'save521':
-    'prefix': 'save the value of the element with the class of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the class of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the class of "$1" to the alias "$2" if it exists'
   'save522':
-    'prefix': 'save the value of the element with the xpath of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the xpath of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the xpath of "$1" to the alias "$2" if it exists'
   'save523':
-    'prefix': 'save the value of the element with the name of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the name of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the name of "$1" to the alias "$2" if it exists'
   'save524':
-    'prefix': 'save the value of the element with the css selector of "$1" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the css selector of "identifier" to the alias "alias" if it exists'
     'body': 'save the value of the element with the css selector of "$1" to the alias "$2" if it exists'
   'save530':
-    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the ID alias of "$1" to the alias "$2"'
   'save531':
-    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the class alias of "$1" to the alias "$2"'
   'save532':
-    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the xpath alias of "$1" to the alias "$2"'
   'save533':
-    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the name alias of "$1" to the alias "$2"'
   'save534':
-    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "$2"'
+    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "alias"'
     'body': 'save the value of the element with the css selector alias of "$1" to the alias "$2"'
   'save540':
-    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the ID alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the ID alias of "$1" to the alias "$2" if it exists'
   'save541':
-    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the class alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the class alias of "$1" to the alias "$2" if it exists'
   'save542':
-    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the xpath alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the xpath alias of "$1" to the alias "$2" if it exists'
   'save543':
-    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the name alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the name alias of "$1" to the alias "$2" if it exists'
   'save544':
-    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "$2" if it exists'
+    'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the css selector alias of "$1" to the alias "$2" if it exists'
