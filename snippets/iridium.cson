@@ -1,0 +1,13 @@
+'.gherkin.feature':
+  '1':
+    'prefix': 'click the element found by \"identifier\"'
+    'body': 'click the element found by \"$1\"'
+  '2':
+    'prefix': 'click the element found by alias \"identifier\"'
+    'body': 'click the element found by alias \"$1\"'
+  '3':
+    'prefix': 'click the element found by \"identifier\" if it exists'
+    'body': 'click the element found by \"$1\" if it exists'
+  '4':
+    'prefix': 'click the element found by alias \"identifier\" if it exists'
+    'body': 'click the element found by alias \"$1\" if it exists'
