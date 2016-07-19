@@ -1,0 +1,14 @@
+'.source.feature':
+
+  'populatetwo1':
+    'prefix': 'I populate the element found by "identifier" with "text"'
+    'body': 'I populate the element found by "$1" with "$2"'
+  'populatetwo2':
+    'prefix': 'I populate the element found by alias "identifier" with "text"'
+    'body': 'I populate the element found by alias "$1" with "$2"'
+  'populatetwo3':
+    'prefix': 'I populate the element found by alias "identifier" with alias "text"'
+    'body': 'I populate the element found by alias "$1" with alias "$2"'
+  'populatetwo4':
+    'prefix': 'I populate the element found by "identifier" with alias "text"'
+    'body': 'I populate the element found by "$1" with alias "$2"'                

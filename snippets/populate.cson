@@ -1,0 +1,301 @@
+'.source.feature':
+
+  'populate1':
+    'prefix': 'populate the element found by "identifier" with "text" and submit'
+    'body': 'populate the element found by "$1" with "$2" and submit'
+  'populate2':
+    'prefix': 'populate the element found by "identifier" with "text" and submit if it exists'
+    'body': 'populate the element found by "$1" with "$2" and submit if it exists'
+  'populate3':
+    'prefix': 'populate the element found by alias "identifier" with "text" and submit'
+    'body': 'populate the element found by alias "$1" with "$2" and submit'
+  'populate4':
+    'prefix': 'populate the element found by alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element found by alias "$1" with alias "$2" and submit if it exists'
+  'populate5':
+    'prefix': 'populate the element found by "identifier" with alias "text" and submit'
+    'body': 'populate the element found by "$1" with alias "$2" and submit'
+  'populate6':
+    'prefix': 'populate the element found by "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element found by "$1" with alias "$2" and submit if it exists'
+  'populate7':
+    'prefix': 'populate the element found by alias "identifier" with alias "text" and submit'
+    'body': 'populate the element found by alias "$1" with alias "$2" and submit'
+  'populate8':
+    'prefix': 'populate the element found by alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element found by alias "$1" with alias "$2" and submit if it exists'
+
+  'populate10':
+    'prefix': 'populate the element with the ID of "identifier" with "text" and submit'
+    'body': 'populate the element with the ID of "$1" with "$2" and submit'
+  'populate11':
+    'prefix': 'populate the element with the ID of "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the ID of "$1" with "$2" and submit if it exists'
+  'populate12':
+    'prefix': 'populate the element with the ID of alias "identifier" with "text" and submit'
+    'body': 'populate the element with the ID of alias "$1" with "$2" and submit'
+  'populate13':
+    'prefix': 'populate the element with the ID of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the ID of alias "$1" with "$2" and submit if it exists'
+  'populate14':
+    'prefix': 'populate the element with the ID of "identifier" with alias "text" and submit'
+    'body': 'populate the element with the ID of "$1" with alias "$2" and submit'
+  'populate15':
+    'prefix': 'populate the element with the ID of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the ID of "$1" with alias "$2" and submit if it exists'
+  'populate16':
+    'prefix': 'populate the element with the ID of alias "identifier" with alias "text" and submit'
+    'body': 'populate the element with the ID of alias "$1" with alias "$2" and submit'
+  'populate17':
+    'prefix': 'populate the element with the ID of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the ID of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate20':
+    'prefix': 'populate the element with the class of "identifier" with "text" and submit'
+    'body': 'populate the element with the class of "$1" with "$2" and submit'
+  'populate21':
+    'prefix': 'populate the element with the class of "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the class of "$1" with "$2" and submit if it exists'
+  'populate22':
+    'prefix': 'populate the element with the class of alias "identifier" with "text" and submit'
+    'body': 'populate the element with the class of alias "$1" with "$2" and submit'
+  'populate23':
+    'prefix': 'populate the element with the class of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the class of alias "$1" with "$2" and submit if it exists'
+  'populate24':
+    'prefix': 'populate the element with the class of "identifier" with alias "text" and submit'
+    'body': 'populate the element with the class of "$1" with alias "$2" and submit'
+  'populate25':
+    'prefix': 'populate the element with the class of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the class of "$1" with alias "$2" and submit if it exists'
+  'populate26':
+    'prefix': 'populate the element with the class of alias "identifier" with alias "text" and submit'
+    'body': 'populate the element with the class of alias "$1" with alias "$2" and submit'
+  'populate27':
+    'prefix': 'populate the element with the class of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the class of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate30':
+    'prefix': 'populate the element with the xpath of "identifier" with "text" and submit'
+    'body': 'populate the element with the xpath of "$1" with "$2" and submit'
+  'populate31':
+    'prefix': 'populate the element with the xpath of "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the xpath of "$1" with "$2" and submit if it exists'
+  'populate32':
+    'prefix': 'populate the element with the xpath of alias "identifier" with "text" and submit'
+    'body': 'populate the element with the xpath of alias "$1" with "$2" and submit'
+  'populate33':
+    'prefix': 'populate the element with the xpath of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the xpath of alias "$1" with "$2" and submit if it exists'
+  'populate34':
+    'prefix': 'populate the element with the xpath of "identifier" with alias "text" and submit'
+    'body': 'populate the element with the xpath of "$1" with alias "$2" and submit'
+  'populate35':
+    'prefix': 'populate the element with the xpath of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the xpath of "$1" with alias "$2" and submit if it exists'
+  'populate36':
+    'prefix': 'populate the element with the xpath of alias "identifier" with alias "text" and submit'
+    'body': 'populate the element with the xpath of alias "$1" with alias "$2" and submit'
+  'populate37':
+    'prefix': 'populate the element with the xpath of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the xpath of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate40':
+    'prefix': 'populate the element with the name of "identifier" with "text" and submit'
+    'body': 'populate the element with the name of "$1" with "$2" and submit'
+  'populate41':
+    'prefix': 'populate the element with the name of "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the name of "$1" with "$2" and submit if it exists'
+  'populate42':
+    'prefix': 'populate the element with the name of alias "identifier" with "text" and submit'
+    'body': 'populate the element with the name of alias "$1" with "$2" and submit'
+  'populate43':
+    'prefix': 'populate the element with the name of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the name of alias "$1" with "$2" and submit if it exists'
+  'populate44':
+    'prefix': 'populate the element with the name of "identifier" with alias "text" and submit'
+    'body': 'populate the element with the name of "$1" with alias "$2" and submit'
+  'populate45':
+    'prefix': 'populate the element with the name of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the name of "$1" with alias "$2" and submit if it exists'
+  'populate46':
+    'prefix': 'populate the element with the name of alias "identifier" with alias "text" and submit'
+    'body': 'populate the element with the name of alias "$1" with alias "$2" and submit'
+  'populate47':
+    'prefix': 'populate the element with the name of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the name of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate40':
+    'prefix': 'populate the element with the css selector of "identifier" with "text" and submit'
+    'body': 'populate the element with the css selector of "$1" with "$2" and submit'
+  'populate41':
+    'prefix': 'populate the element with the css selector of "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the css selector of "$1" with "$2" and submit if it exists'
+  'populate42':
+    'prefix': 'populate the element with the css selector of alias "identifier" with "text" and submit'
+    'body': 'populate the element with the css selector of alias "$1" with "$2" and submit'
+  'populate43':
+    'prefix': 'populate the element with the css selector of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the element with the css selector of alias "$1" with "$2" and submit if it exists'
+  'populate44':
+    'prefix': 'populate the element with the css selector of "identifier" with alias "text" and submit'
+    'body': 'populate the element with the css selector of "$1" with alias "$2" and submit'
+  'populate45':
+    'prefix': 'populate the element with the css selector of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the css selector of "$1" with alias "$2" and submit if it exists'
+  'populate46':
+    'prefix': 'populate the element with the css selector of alias "identifier" with alias "text" and submit'
+    'body': 'populate the element with the css selector of alias "$1" with alias "$2" and submit'
+  'populate47':
+    'prefix': 'populate the element with the css selector of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the element with the css selector of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate51':
+    'prefix': 'populate the hidden element found by "identifier" with "text" and submit'
+    'body': 'populate the hidden element found by "$1" with "$2" and submit'
+  'populate52':
+    'prefix': 'populate the hidden element found by "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element found by "$1" with "$2" and submit if it exists'
+  'populate53':
+    'prefix': 'populate the hidden element found by alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element found by alias "$1" with "$2" and submit'
+  'populate54':
+    'prefix': 'populate the hidden element found by alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element found by alias "$1" with alias "$2" and submit if it exists'
+  'populate55':
+    'prefix': 'populate the hidden element found by "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element found by "$1" with alias "$2" and submit'
+  'populate56':
+    'prefix': 'populate the hidden element found by "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element found by "$1" with alias "$2" and submit if it exists'
+  'populate57':
+    'prefix': 'populate the hidden element found by alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element found by alias "$1" with alias "$2" and submit'
+  'populate58':
+    'prefix': 'populate the hidden element found by alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element found by alias "$1" with alias "$2" and submit if it exists'
+
+  'populate60':
+    'prefix': 'populate the hidden element with the ID of "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the ID of "$1" with "$2" and submit'
+  'populate61':
+    'prefix': 'populate the hidden element with the ID of "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the ID of "$1" with "$2" and submit if it exists'
+  'populate62':
+    'prefix': 'populate the hidden element with the ID of alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the ID of alias "$1" with "$2" and submit'
+  'populate63':
+    'prefix': 'populate the hidden element with the ID of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the ID of alias "$1" with "$2" and submit if it exists'
+  'populate64':
+    'prefix': 'populate the hidden element with the ID of "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the ID of "$1" with alias "$2" and submit'
+  'populate65':
+    'prefix': 'populate the hidden element with the ID of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the ID of "$1" with alias "$2" and submit if it exists'
+  'populate66':
+    'prefix': 'populate the hidden element with the ID of alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the ID of alias "$1" with alias "$2" and submit'
+  'populate67':
+    'prefix': 'populate the hidden element with the ID of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the ID of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate70':
+    'prefix': 'populate the hidden element with the class of "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the class of "$1" with "$2" and submit'
+  'populate71':
+    'prefix': 'populate the hidden element with the class of "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the class of "$1" with "$2" and submit if it exists'
+  'populate72':
+    'prefix': 'populate the hidden element with the class of alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the class of alias "$1" with "$2" and submit'
+  'populate73':
+    'prefix': 'populate the hidden element with the class of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the class of alias "$1" with "$2" and submit if it exists'
+  'populate74':
+    'prefix': 'populate the hidden element with the class of "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the class of "$1" with alias "$2" and submit'
+  'populate75':
+    'prefix': 'populate the hidden element with the class of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the class of "$1" with alias "$2" and submit if it exists'
+  'populate76':
+    'prefix': 'populate the hidden element with the class of alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the class of alias "$1" with alias "$2" and submit'
+  'populate77':
+    'prefix': 'populate the hidden element with the class of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the class of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate80':
+    'prefix': 'populate the hidden element with the xpath of "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the xpath of "$1" with "$2" and submit'
+  'populate81':
+    'prefix': 'populate the hidden element with the xpath of "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the xpath of "$1" with "$2" and submit if it exists'
+  'populate82':
+    'prefix': 'populate the hidden element with the xpath of alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the xpath of alias "$1" with "$2" and submit'
+  'populate83':
+    'prefix': 'populate the hidden element with the xpath of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the xpath of alias "$1" with "$2" and submit if it exists'
+  'populate84':
+    'prefix': 'populate the hidden element with the xpath of "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the xpath of "$1" with alias "$2" and submit'
+  'populate85':
+    'prefix': 'populate the hidden element with the xpath of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the xpath of "$1" with alias "$2" and submit if it exists'
+  'populate86':
+    'prefix': 'populate the hidden element with the xpath of alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the xpath of alias "$1" with alias "$2" and submit'
+  'populate87':
+    'prefix': 'populate the hidden element with the xpath of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the xpath of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate90':
+    'prefix': 'populate the hidden element with the name of "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the name of "$1" with "$2" and submit'
+  'populate91':
+    'prefix': 'populate the hidden element with the name of "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the name of "$1" with "$2" and submit if it exists'
+  'populate92':
+    'prefix': 'populate the hidden element with the name of alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the name of alias "$1" with "$2" and submit'
+  'populate93':
+    'prefix': 'populate the hidden element with the name of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the name of alias "$1" with "$2" and submit if it exists'
+  'populate94':
+    'prefix': 'populate the hidden element with the name of "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the name of "$1" with alias "$2" and submit'
+  'populate95':
+    'prefix': 'populate the hidden element with the name of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the name of "$1" with alias "$2" and submit if it exists'
+  'populate96':
+    'prefix': 'populate the hidden element with the name of alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the name of alias "$1" with alias "$2" and submit'
+  'populate97':
+    'prefix': 'populate the hidden element with the name of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the name of alias "$1" with alias "$2" and submit if it exists'
+
+  'populate100':
+    'prefix': 'populate the hidden element with the css selector of "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the css selector of "$1" with "$2" and submit'
+  'populate101':
+    'prefix': 'populate the hidden element with the css selector of "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the css selector of "$1" with "$2" and submit if it exists'
+  'populate102':
+    'prefix': 'populate the hidden element with the css selector of alias "identifier" with "text" and submit'
+    'body': 'populate the hidden element with the css selector of alias "$1" with "$2" and submit'
+  'populate103':
+    'prefix': 'populate the hidden element with the css selector of alias "identifier" with "text" and submit if it exists'
+    'body': 'populate the hidden element with the css selector of alias "$1" with "$2" and submit if it exists'
+  'populate104':
+    'prefix': 'populate the hidden element with the css selector of "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the css selector of "$1" with alias "$2" and submit'
+  'populate105':
+    'prefix': 'populate the hidden element with the css selector of "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the css selector of "$1" with alias "$2" and submit if it exists'
+  'populate106':
+    'prefix': 'populate the hidden element with the css selector of alias "identifier" with alias "text" and submit'
+    'body': 'populate the hidden element with the css selector of alias "$1" with alias "$2" and submit'
+  'populate107':
+    'prefix': 'populate the hidden element with the css selector of alias "identifier" with alias "text" and submit if it exists'
+    'body': 'populate the hidden element with the css selector of alias "$1" with alias "$2" and submit if it exists'
