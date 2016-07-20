@@ -1,0 +1,261 @@
+'.source.feature':
+
+    'populatethree1':
+      'prefix': 'populate the element with the ID of "identifier" with "text"'
+      'body': 'populate the element with the ID of "$1" with "$2"'
+    'populatethree2':
+      'prefix': 'populate the element with the ID alias of "identifier" with "text"'
+      'body': 'populate the element with the ID alias of "$1" with "$2"'
+    'populatethree3':
+      'prefix': 'populate the element with the ID alias of "identifier" with alias "text"'
+      'body': 'populate the element with the ID alias of "$1" with alias "$2"'
+    'populatethree4':
+      'prefix': 'populate the element with the ID of "identifier" with alias "text"'
+      'body': 'populate the element with the ID of "$1" with alias "$2"'
+
+    'populatethree5':
+      'prefix': 'populate the element with the ID of "identifier" with "text" if it exists'
+      'body': 'populate the element with the ID of "$1" with "$2" if it exists'
+    'populatethree6':
+      'prefix': 'populate the element with the ID alias of "identifier" with "text" if it exists'
+      'body': 'populate the element with the ID alias of "$1" with "$2" if it exists'
+    'populatethree7':
+      'prefix': 'populate the element with the ID alias of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the ID alias of "$1" with alias "$2" if it exists'
+    'populatethree8':
+      'prefix': 'populate the element with the ID of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the ID of "$1" with alias "$2" if it exists'
+
+    'populatethree9':
+      'prefix': 'populate the element with the ID of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the ID of "$1" with "$2" if it is empty'
+    'populatethree10':
+      'prefix': 'populate the element with the ID alias of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the ID alias of "$1" with "$2" if it is empty'
+    'populatethree11':
+      'prefix': 'populate the element with the ID alias of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the ID alias of "$1" with alias "$2" if it is empty'
+    'populatethree12':
+      'prefix': 'populate the element with the ID of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the ID of "$1" with alias "$2" if it is empty'
+
+    'populatethree13':
+      'prefix': 'populate the element with the ID of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the ID of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree14':
+      'prefix': 'populate the element with the ID alias of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the ID alias of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree15':
+      'prefix': 'populate the element with the ID alias of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the ID alias of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree16':
+      'prefix': 'populate the element with the ID of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the ID of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+
+    'populatethree21':
+      'prefix': 'populate the element with the class of "identifier" with "text"'
+      'body': 'populate the element with the class of "$1" with "$2"'
+    'populatethree22':
+      'prefix': 'populate the element with the class alias of "identifier" with "text"'
+      'body': 'populate the element with the class alias of "$1" with "$2"'
+    'populatethree23':
+      'prefix': 'populate the element with the class alias of "identifier" with alias "text"'
+      'body': 'populate the element with the class alias of "$1" with alias "$2"'
+    'populatethree24':
+      'prefix': 'populate the element with the class of "identifier" with alias "text"'
+      'body': 'populate the element with the class of "$1" with alias "$2"'
+
+    'populatethree25':
+      'prefix': 'populate the element with the class of "identifier" with "text" if it exists'
+      'body': 'populate the element with the class of "$1" with "$2" if it exists'
+    'populatethree26':
+      'prefix': 'populate the element with the class alias of "identifier" with "text" if it exists'
+      'body': 'populate the element with the class alias of "$1" with "$2" if it exists'
+    'populatethree27':
+      'prefix': 'populate the element with the class alias of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the class alias of "$1" with alias "$2" if it exists'
+    'populatethree28':
+      'prefix': 'populate the element with the class of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the class of "$1" with alias "$2" if it exists'
+
+    'populatethree29':
+      'prefix': 'populate the element with the class of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the class of "$1" with "$2" if it is empty'
+    'populatethree30':
+      'prefix': 'populate the element with the class alias of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the class alias of "$1" with "$2" if it is empty'
+    'populatethree31':
+      'prefix': 'populate the element with the class alias of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the class alias of "$1" with alias "$2" if it is empty'
+    'populatethree32':
+      'prefix': 'populate the element with the class of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the class of "$1" with alias "$2" if it is empty'
+
+    'populatethree33':
+      'prefix': 'populate the element with the class of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the class of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree34':
+      'prefix': 'populate the element with the class alias of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the class alias of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree35':
+      'prefix': 'populate the element with the class alias of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the class alias of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree36':
+      'prefix': 'populate the element with the class of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the class of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+
+    'populatethree41':
+      'prefix': 'populate the element with the xpath of "identifier" with "text"'
+      'body': 'populate the element with the xpath of "$1" with "$2"'
+    'populatethree42':
+      'prefix': 'populate the element with the xpath alias of "identifier" with "text"'
+      'body': 'populate the element with the xpath alias of "$1" with "$2"'
+    'populatethree43':
+      'prefix': 'populate the element with the xpath alias of "identifier" with alias "text"'
+      'body': 'populate the element with the xpath alias of "$1" with alias "$2"'
+    'populatethree44':
+      'prefix': 'populate the element with the xpath of "identifier" with alias "text"'
+      'body': 'populate the element with the xpath of "$1" with alias "$2"'
+
+    'populatethree45':
+      'prefix': 'populate the element with the xpath of "identifier" with "text" if it exists'
+      'body': 'populate the element with the xpath of "$1" with "$2" if it exists'
+    'populatethree46':
+      'prefix': 'populate the element with the xpath alias of "identifier" with "text" if it exists'
+      'body': 'populate the element with the xpath alias of "$1" with "$2" if it exists'
+    'populatethree47':
+      'prefix': 'populate the element with the xpath alias of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the xpath alias of "$1" with alias "$2" if it exists'
+    'populatethree48':
+      'prefix': 'populate the element with the xpath of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the xpath of "$1" with alias "$2" if it exists'
+
+    'populatethree49':
+      'prefix': 'populate the element with the xpath of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the xpath of "$1" with "$2" if it is empty'
+    'populatethree50':
+      'prefix': 'populate the element with the xpath alias of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the xpath alias of "$1" with "$2" if it is empty'
+    'populatethree51':
+      'prefix': 'populate the element with the xpath alias of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the xpath alias of "$1" with alias "$2" if it is empty'
+    'populatethree52':
+      'prefix': 'populate the element with the xpath of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the xpath of "$1" with alias "$2" if it is empty'
+
+    'populatethree53':
+      'prefix': 'populate the element with the xpath of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the xpath of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree54':
+      'prefix': 'populate the element with the xpath alias of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the xpath alias of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree55':
+      'prefix': 'populate the element with the xpath alias of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the xpath alias of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree56':
+      'prefix': 'populate the element with the xpath of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the xpath of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+
+    'populatethree61':
+      'prefix': 'populate the element with the name of "identifier" with "text"'
+      'body': 'populate the element with the name of "$1" with "$2"'
+    'populatethree62':
+      'prefix': 'populate the element with the name alias of "identifier" with "text"'
+      'body': 'populate the element with the name alias of "$1" with "$2"'
+    'populatethree63':
+      'prefix': 'populate the element with the name alias of "identifier" with alias "text"'
+      'body': 'populate the element with the name alias of "$1" with alias "$2"'
+    'populatethree64':
+      'prefix': 'populate the element with the name of "identifier" with alias "text"'
+      'body': 'populate the element with the name of "$1" with alias "$2"'
+
+    'populatethree65':
+      'prefix': 'populate the element with the name of "identifier" with "text" if it exists'
+      'body': 'populate the element with the name of "$1" with "$2" if it exists'
+    'populatethree66':
+      'prefix': 'populate the element with the name alias of "identifier" with "text" if it exists'
+      'body': 'populate the element with the name alias of "$1" with "$2" if it exists'
+    'populatethree67':
+      'prefix': 'populate the element with the name alias of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the name alias of "$1" with alias "$2" if it exists'
+    'populatethree68':
+      'prefix': 'populate the element with the name of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the name of "$1" with alias "$2" if it exists'
+
+    'populatethree69':
+      'prefix': 'populate the element with the name of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the name of "$1" with "$2" if it is empty'
+    'populatethree70':
+      'prefix': 'populate the element with the name alias of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the name alias of "$1" with "$2" if it is empty'
+    'populatethree71':
+      'prefix': 'populate the element with the name alias of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the name alias of "$1" with alias "$2" if it is empty'
+    'populatethree72':
+      'prefix': 'populate the element with the name of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the name of "$1" with alias "$2" if it is empty'
+
+    'populatethree73':
+      'prefix': 'populate the element with the name of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the name of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree74':
+      'prefix': 'populate the element with the name alias of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the name alias of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree75':
+      'prefix': 'populate the element with the name alias of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the name alias of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree76':
+      'prefix': 'populate the element with the name of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the name of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+
+    'populatethree81':
+      'prefix': 'populate the element with the css selector of "identifier" with "text"'
+      'body': 'populate the element with the css selector of "$1" with "$2"'
+    'populatethree82':
+      'prefix': 'populate the element with the css selector alias of "identifier" with "text"'
+      'body': 'populate the element with the css selector alias of "$1" with "$2"'
+    'populatethree83':
+      'prefix': 'populate the element with the css selector alias of "identifier" with alias "text"'
+      'body': 'populate the element with the css selector alias of "$1" with alias "$2"'
+    'populatethree84':
+      'prefix': 'populate the element with the css selector of "identifier" with alias "text"'
+      'body': 'populate the element with the css selector of "$1" with alias "$2"'
+
+    'populatethree85':
+      'prefix': 'populate the element with the css selector of "identifier" with "text" if it exists'
+      'body': 'populate the element with the css selector of "$1" with "$2" if it exists'
+    'populatethree86':
+      'prefix': 'populate the element with the css selector alias of "identifier" with "text" if it exists'
+      'body': 'populate the element with the css selector alias of "$1" with "$2" if it exists'
+    'populatethree87':
+      'prefix': 'populate the element with the css selector alias of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the css selector alias of "$1" with alias "$2" if it exists'
+    'populatethree88':
+      'prefix': 'populate the element with the css selector of "identifier" with alias "text" if it exists'
+      'body': 'populate the element with the css selector of "$1" with alias "$2" if it exists'
+
+    'populatethree89':
+      'prefix': 'populate the element with the css selector of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the css selector of "$1" with "$2" if it is empty'
+    'populatethree90':
+      'prefix': 'populate the element with the css selector alias of "identifier" with "text" if it is empty'
+      'body': 'populate the element with the css selector alias of "$1" with "$2" if it is empty'
+    'populatethree91':
+      'prefix': 'populate the element with the css selector alias of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the css selector alias of "$1" with alias "$2" if it is empty'
+    'populatethree92':
+      'prefix': 'populate the element with the css selector of "identifier" with alias "text" if it is empty'
+      'body': 'populate the element with the css selector of "$1" with alias "$2" if it is empty'
+
+    'populatethree93':
+      'prefix': 'populate the element with the css selector of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the css selector of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree94':
+      'prefix': 'populate the element with the css selector alias of "identifier" with "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the css selector alias of "$1" with "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree95':
+      'prefix': 'populate the element with the css selector alias of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the css selector alias of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
+    'populatethree96':
+      'prefix': 'populate the element with the css selector of "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
+      'body': 'populate the element with the css selector of "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
