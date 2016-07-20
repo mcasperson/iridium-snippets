@@ -1,0 +1,10 @@
+'.source.feature':
+  'set1':
+    'prefix': 'set the default wait time between steps to "time" seconds'
+    'body': 'set the default wait time between steps to "$1" seconds'
+  'set2':
+    'prefix': 'set the alias mappings'
+    'body': '''
+          set the alias mappings
+            | $1 | $2 |
+          '''

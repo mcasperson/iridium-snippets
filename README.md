@@ -15,3 +15,4 @@ The following prefixes trigger a list of snippets:
 * open
 * populate
 * wait
+* set
