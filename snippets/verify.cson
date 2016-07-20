@@ -1,0 +1,153 @@
+'.source.feature':
+  'verify1':
+    'prefix': 'verify that the browser title should be "title"'
+    'body': 'verify that the browser title should be "$1"'
+  'verify2':
+    'prefix': 'verify that the element found by "identifier" should have a class of "class"'
+    'body': 'verify that the element found by "$1" should have a class of "$2"'
+  'verify3':
+    'prefix': 'verify that the element found by alias "identifier" should have a class of "class"'
+    'body': 'verify that the element found by alias "$1" should have a class of "$2"'
+  'verify4':
+    'prefix': 'verify that the element found by "identifier" should have a class of alias "class"'
+    'body': 'verify that the element found by "$1" should have a class of alias "$2"'
+  'verify5':
+    'prefix': 'verify that the element found by alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element found by alias "$1" should have a class of alias "$2"'
+  'verify6':
+    'prefix': 'verify that the element found by "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element found by "$1" should have a class of "$2" if it exists'
+  'verify7':
+    'prefix': 'verify that the element found by alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element found by alias "$1" should have a class of "$2" if it exists'
+  'verify8':
+    'prefix': 'verify that the element found by "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element found by "$1" should have a class of alias "$2" if it exists'
+  'verify9':
+    'prefix': 'verify that the element found by alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element found by alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify10':
+    'prefix': 'verify that the element with the ID of "identifier" should have a class of "class"'
+    'body': 'verify that the element with the ID of "$1" should have a class of "$2"'
+  'verify11':
+    'prefix': 'verify that the element with the ID of alias "identifier" should have a class of "class"'
+    'body': 'verify that the element with the ID of alias "$1" should have a class of "$2"'
+  'verify12':
+    'prefix': 'verify that the element with the ID of "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the ID of "$1" should have a class of alias "$2"'
+  'verify13':
+    'prefix': 'verify that the element with the ID of alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the ID of alias "$1" should have a class of alias "$2"'
+  'verify14':
+    'prefix': 'verify that the element with the ID of "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the ID of "$1" should have a class of "$2" if it exists'
+  'verify15':
+    'prefix': 'verify that the element with the ID of alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the ID of alias "$1" should have a class of "$2" if it exists'
+  'verify16':
+    'prefix': 'verify that the element with the ID of "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the ID of "$1" should have a class of alias "$2" if it exists'
+  'verify17':
+    'prefix': 'verify that the element with the ID of alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the ID of alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify20':
+    'prefix': 'verify that the element with the class of "identifier" should have a class of "class"'
+    'body': 'verify that the element with the class of "$1" should have a class of "$2"'
+  'verify21':
+    'prefix': 'verify that the element with the class of alias "identifier" should have a class of "class"'
+    'body': 'verify that the element with the class of alias "$1" should have a class of "$2"'
+  'verify22':
+    'prefix': 'verify that the element with the class of "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the class of "$1" should have a class of alias "$2"'
+  'verify23':
+    'prefix': 'verify that the element with the class of alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the class of alias "$1" should have a class of alias "$2"'
+  'verify24':
+    'prefix': 'verify that the element with the class of "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the class of "$1" should have a class of "$2" if it exists'
+  'verify25':
+    'prefix': 'verify that the element with the class of alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the class of alias "$1" should have a class of "$2" if it exists'
+  'verify26':
+    'prefix': 'verify that the element with the class of "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the class of "$1" should have a class of alias "$2" if it exists'
+  'verify27':
+    'prefix': 'verify that the element with the class of alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the class of alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify30':
+    'prefix': 'verify that the element with the xpath of "identifier" should have a class of "class"'
+    'body': 'verify that the element with the xpath of "$1" should have a class of "$2"'
+  'verify31':
+    'prefix': 'verify that the element with the xpath of alias "identifier" should have a class of "class"'
+    'body': 'verify that the element with the xpath of alias "$1" should have a class of "$2"'
+  'verify32':
+    'prefix': 'verify that the element with the xpath of "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the xpath of "$1" should have a class of alias "$2"'
+  'verify33':
+    'prefix': 'verify that the element with the xpath of alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the xpath of alias "$1" should have a class of alias "$2"'
+  'verify34':
+    'prefix': 'verify that the element with the xpath of "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the xpath of "$1" should have a class of "$2" if it exists'
+  'verify35':
+    'prefix': 'verify that the element with the xpath of alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the xpath of alias "$1" should have a class of "$2" if it exists'
+  'verify36':
+    'prefix': 'verify that the element with the xpath of "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the xpath of "$1" should have a class of alias "$2" if it exists'
+  'verify37':
+    'prefix': 'verify that the element with the xpath of alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the xpath of alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify40':
+    'prefix': 'verify that the element with the name of "identifier" should have a class of "class"'
+    'body': 'verify that the element with the name of "$1" should have a class of "$2"'
+  'verify41':
+    'prefix': 'verify that the element with the name of alias "identifier" should have a class of "class"'
+    'body': 'verify that the element with the name of alias "$1" should have a class of "$2"'
+  'verify42':
+    'prefix': 'verify that the element with the name of "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the name of "$1" should have a class of alias "$2"'
+  'verify43':
+    'prefix': 'verify that the element with the name of alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the name of alias "$1" should have a class of alias "$2"'
+  'verify44':
+    'prefix': 'verify that the element with the name of "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the name of "$1" should have a class of "$2" if it exists'
+  'verify45':
+    'prefix': 'verify that the element with the name of alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the name of alias "$1" should have a class of "$2" if it exists'
+  'verify46':
+    'prefix': 'verify that the element with the name of "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the name of "$1" should have a class of alias "$2" if it exists'
+  'verify47':
+    'prefix': 'verify that the element with the name of alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the name of alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify50':
+    'prefix': 'verify that the element with the css selector of "identifier" should have a class of "class"'
+    'body': 'verify that the element with the css selector of "$1" should have a class of "$2"'
+  'verify51':
+    'prefix': 'verify that the element with the css selector of alias "identifier" should have a class of "class"'
+    'body': 'verify that the element with the css selector of alias "$1" should have a class of "$2"'
+  'verify52':
+    'prefix': 'verify that the element with the css selector of "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the css selector of "$1" should have a class of alias "$2"'
+  'verify53':
+    'prefix': 'verify that the element with the css selector of alias "identifier" should have a class of alias "class"'
+    'body': 'verify that the element with the css selector of alias "$1" should have a class of alias "$2"'
+  'verify54':
+    'prefix': 'verify that the element with the css selector of "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the css selector of "$1" should have a class of "$2" if it exists'
+  'verify55':
+    'prefix': 'verify that the element with the css selector of alias "identifier" should have a class of "class" if it exists'
+    'body': 'verify that the element with the css selector of alias "$1" should have a class of "$2" if it exists'
+  'verify56':
+    'prefix': 'verify that the element with the css selector of "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the css selector of "$1" should have a class of alias "$2" if it exists'
+  'verify57':
+    'prefix': 'verify that the element with the css selector of alias "identifier" should have a class of alias "class" if it exists'
+    'body': 'verify that the element with the css selector of alias "$1" should have a class of alias "$2" if it exists'
