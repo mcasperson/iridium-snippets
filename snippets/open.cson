@@ -1,0 +1,13 @@
+'.source.feature':
+  'open1':
+    'prefix': 'open the page "url"'
+    'body': 'open the page "$1"'
+  'open2':
+    'prefix': 'open the page alias "url"'
+    'body': 'open the page alias "$1"'
+  'open3':
+    'prefix': 'open the application'
+    'body': 'open the application'
+  'open4':
+    'prefix': 'open the application "name"'
+    'body': 'open the application "$1"'

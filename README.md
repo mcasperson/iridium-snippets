@@ -5,3 +5,13 @@ with the (Iridium)[https://github.com/AutoGeneral/IridiumApplicationTesting] tes
 
 Note that the snippets are not exhaustive, but are designed to provide the
 most common steps that you'll use when testing a web application.
+
+The following prefixes trigger a list of snippets:
+
+* click
+* save
+* select
+* mouse
+* open
+* populate
+* wait
