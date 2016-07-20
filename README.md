@@ -1,5 +1,7 @@
 # iridium-snippets package
 
-A short description of your package.
+This package provides snippets that can be used when writing Cucumber test scripts
+with the (Iridium)[https://github.com/AutoGeneral/IridiumApplicationTesting] testing application.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Note that the snippets are not exhaustive, but are designed to provide the
+most common steps that you'll use when testing a web application.
