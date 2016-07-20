@@ -16,3 +16,6 @@ The following prefixes trigger a list of snippets:
 * populate
 * wait
 * set
+
+See https://autogeneral.gitbooks.io/iridiumapplicationtesting-gettingstartedguide/content/editor_support.html
+for detailed instructions.
