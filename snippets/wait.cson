@@ -10,7 +10,7 @@
 
   'wait1.5':
     'prefix': 'wait "time" seconds for a link with the text content of alias "content" to be present'
-    'body': 'wait "$1" seconds for a link with the text content of alias "$2" to be present'     
+    'body': 'wait "$1" seconds for a link with the text content of alias "$2" to be present'
 
   'wait2':
     'prefix': 'wait "time" seconds for the element found by "identifier" to be present'
