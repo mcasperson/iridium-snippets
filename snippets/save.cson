@@ -219,7 +219,6 @@
     'prefix': 'save the attribute content of "attribute" from the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the attribute content of "$1" from the element with the css selector alias of "$2" to the alias "$3" if it exists'
 
-'.source.feature':
   'save1':
     'prefix': 'save the value of the element found by identifier" to the alias "alias"'
     'body': 'save the value of the element found by "$1" to the alias "$2"'
