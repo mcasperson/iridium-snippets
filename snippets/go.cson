@@ -1,0 +1,7 @@
+'.source.feature':
+  'go1':
+    'prefix': 'go back'
+    'body': 'go back'
+  'go2':
+    'prefix': 'go forward'
+    'body': 'go forward'

@@ -1,0 +1,78 @@
+'.source.feature':
+  'focus1':
+    'prefix': 'focus on the element found by "identifier"'
+    'body': 'focus on the element found by "$1"'
+  'focus2':
+    'prefix': 'focus on the element found by "identifier" if it exsists'
+    'body': 'focus on the element found by "$1" if it exsists'
+  'focus3':
+    'prefix': 'focus on the element found by alias "identifier" if it exsists'
+    'body': 'focus on the element found by alias "$1" if it exsists'
+  'focus4':
+    'prefix': 'focus on the element found by alias "identifier"'
+    'body': 'focus on the element found by alias "$1"'
+
+  'focus5':
+    'prefix': 'focus on the element with the ID of "identifier"'
+    'body': 'focus on the element with the ID of "$1"'
+  'focus6':
+    'prefix': 'focus on the element with the ID alias of "identifier"'
+    'body': 'focus on the element with the ID alias of "$1"'
+  'focus7':
+    'prefix': 'focus on the element with the ID alias of "identifier" if it exsists'
+    'body': 'focus on the element with the ID alias of "$1" if it exsists'
+  'focus8':
+    'prefix': 'focus on the element with the ID of "identifier" if it exsists'
+    'body': 'focus on the element with the ID of "$1" if it exsists'
+
+  'focus10':
+    'prefix': 'focus on the element with the class of "identifier"'
+    'body': 'focus on the element with the class of "$1"'
+  'focus11':
+    'prefix': 'focus on the element with the class alias of "identifier"'
+    'body': 'focus on the element with the class alias of "$1"'
+  'focus12':
+    'prefix': 'focus on the element with the class alias of "identifier" if it exsists'
+    'body': 'focus on the element with the class alias of "$1" if it exsists'
+  'focus13':
+    'prefix': 'focus on the element with the class of "identifier" if it exsists'
+    'body': 'focus on the element with the class of "$1" if it exsists'
+
+  'focus20':
+    'prefix': 'focus on the element with the xpath of "identifier"'
+    'body': 'focus on the element with the xpath of "$1"'
+  'focus21':
+    'prefix': 'focus on the element with the xpath alias of "identifier"'
+    'body': 'focus on the element with the xpath alias of "$1"'
+  'focus22':
+    'prefix': 'focus on the element with the xpath alias of "identifier" if it exsists'
+    'body': 'focus on the element with the xpath alias of "$1" if it exsists'
+  'focus23':
+    'prefix': 'focus on the element with the xpath of "identifier" if it exsists'
+    'body': 'focus on the element with the xpath of "$1" if it exsists'
+
+  'focus30':
+    'prefix': 'focus on the element with the name of "identifier"'
+    'body': 'focus on the element with the name of "$1"'
+  'focus31':
+    'prefix': 'focus on the element with the name alias of "identifier"'
+    'body': 'focus on the element with the name alias of "$1"'
+  'focus32':
+    'prefix': 'focus on the element with the name alias of "identifier" if it exsists'
+    'body': 'focus on the element with the name alias of "$1" if it exsists'
+  'focus33':
+    'prefix': 'focus on the element with the name of "identifier" if it exsists'
+    'body': 'focus on the element with the name of "$1" if it exsists'
+
+  'focus40':
+    'prefix': 'focus on the element with the css selector of "identifier"'
+    'body': 'focus on the element with the css selector of "$1"'
+  'focus41':
+    'prefix': 'focus on the element with the css selector alias of "identifier"'
+    'body': 'focus on the element with the css selector alias of "$1"'
+  'focus42':
+    'prefix': 'focus on the element with the css selector alias of "identifier" if it exsists'
+    'body': 'focus on the element with the css selector alias of "$1" if it exsists'
+  'focus43':
+    'prefix': 'focus on the element with the css selector of "identifier" if it exsists'
+    'body': 'focus on the element with the css selector of "$1" if it exsists'                                     

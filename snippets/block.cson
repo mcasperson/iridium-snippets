@@ -1,0 +1,169 @@
+'.source.feature':
+  'clicks1':
+    'prefix': 'click the element found by \"identifier\"'
+    'body': 'click the element found by \"$1\"'
+  'clicks2':
+    'prefix': 'click the element found by alias \"identifier\"'
+    'body': 'click the element found by alias \"$1\"'
+  'clicks3':
+    'prefix': 'click the element found by \"identifier\" if it exists'
+    'body': 'click the element found by \"$1\" if it exists'
+  'clicks4':
+    'prefix': 'click the element found by alias \"identifier\" if it exists'
+    'body': 'click the element found by alias \"$1\" if it exists'
+  'clicks5':
+    'prefix': 'click the element with the ID of \"identifier\"'
+    'body': 'click the element with the ID of \"$1\"'
+  'clicks6':
+    'prefix': 'click the element with the class of \"identifier\"'
+    'body': 'click the element with the class of \"$1\"'
+  'clicks7':
+    'prefix': 'click the element with the xpath of \"identifier\"'
+    'body': 'click the element with the xpath of \"$1\"'
+  'clicks8':
+    'prefix': 'click the element with the name of \"identifier\"'
+    'body': 'click the element with the name of \"$1\"'
+  'clicks9':
+    'prefix': 'click the element with the css selector of \"identifier\"'
+    'body': 'click the element with the css selector of \"$1\"'
+  'clicks10':
+    'prefix': 'click the element with the ID of \"identifier\" if it exists'
+    'body': 'click the element with the ID of \"$1\" if it exists'
+  'clicks11':
+    'prefix': 'click the element with the class of \"identifier\" if it exists'
+    'body': 'click the element with the class of \"$1\" if it exists'
+  'clicks12':
+    'prefix': 'click the element with the xpath of \"identifier\" if it exists'
+    'body': 'click the element with the xpath of \"$1\" if it exists'
+  'clicks13':
+    'prefix': 'click the element with the name of \"identifier\" if it exists'
+    'body': 'click the element with the name of \"$1\" if it exists'
+  'clicks14':
+    'prefix': 'click the element with the css selector of \"identifier\" if it exists'
+    'body': 'click the element with the css selector of \"$1\" if it exists'
+  'clicks15':
+    'prefix': 'click the element with the ID alias of \"identifier\"'
+    'body': 'click the element with the ID alias of \"$1\"'
+  'clicks16':
+    'prefix': 'click the element with the class alias of \"identifier\"'
+    'body': 'click the element with the class alias of \"$1\"'
+  'clicks17':
+    'prefix': 'click the element with the xpath alias of \"identifier\"'
+    'body': 'click the element with the xpath alias of \"$1\"'
+  'clicks18':
+    'prefix': 'click the element with the name alias of \"identifier\"'
+    'body': 'click the element with the name alias of \"$1\"'
+  'clicks19':
+    'prefix': 'click the element with the css selector alias of \"identifier\"'
+    'body': 'click the element with the css selector alias of \"$1\"'
+  'clicks20':
+    'prefix': 'click the element with the ID alias of \"identifier\" if it exists'
+    'body': 'click the element with the ID alias of \"$1\" if it exists'
+  'clicks21':
+    'prefix': 'click the element with the class alias of \"identifier\" if it exists'
+    'body': 'click the element with the class alias of \"$1\" if it exists'
+  'clicks22':
+    'prefix': 'click the element with the xpath alias of \"identifier\" if it exists'
+    'body': 'click the element with the xpath alias of \"$1\" if it exists'
+  'clicks23':
+    'prefix': 'click the element with the name alias of \"identifier\" if it exists'
+    'body': 'click the element with the name alias of \"$1\" if it exists'
+  'clicks24':
+    'prefix': 'click the element with the css selector alias of \"identifier\" if it exists'
+    'body': 'click the element with the css selector alias of \"$1\" if it exists'
+  'clicks31':
+    'prefix': 'click the hidden element found by \"identifier\"'
+    'body': 'click the hidden element found by \"$1\"'
+  'clicks32':
+    'prefix': 'click the hidden element found by alias \"identifier\"'
+    'body': 'click the hidden element found by alias \"$1\"'
+  'clicks33':
+    'prefix': 'click the hidden element found by \"identifier\" if it exists'
+    'body': 'click the hidden element found by \"$1\" if it exists'
+  'clicks34':
+    'prefix': 'click the hidden element found by alias \"identifier\" if it exists'
+    'body': 'click the hidden element found by alias \"$1\" if it exists'
+  'clicks35':
+    'prefix': 'click the hidden element with the ID of \"identifier\"'
+    'body': 'click the hidden element with the ID of \"$1\"'
+  'clicks36':
+    'prefix': 'click the hidden element with the class of \"identifier\"'
+    'body': 'click the hidden element with the class of \"$1\"'
+  'clicks37':
+    'prefix': 'click the hidden element with the xpath of \"identifier\"'
+    'body': 'click the hidden element with the xpath of \"$1\"'
+  'clicks38':
+    'prefix': 'click the hidden element with the name of \"identifier\"'
+    'body': 'click the hidden element with the name of \"$1\"'
+  'clicks39':
+    'prefix': 'click the hidden element with the css selector of \"identifier\"'
+    'body': 'click the hidden element with the css selector of \"$1\"'
+  'clicks40':
+    'prefix': 'click the hidden element with the ID of \"identifier\" if it exists'
+    'body': 'click the hidden element with the ID of \"$1\" if it exists'
+  'clicks41':
+    'prefix': 'click the hidden element with the class of \"identifier\" if it exists'
+    'body': 'click the hidden element with the class of \"$1\" if it exists'
+  'clicks42':
+    'prefix': 'click the hidden element with the xpath of \"identifier\" if it exists'
+    'body': 'click the hidden element with the xpath of \"$1\" if it exists'
+  'clicks43':
+    'prefix': 'click the hidden element with the name of \"identifier\" if it exists'
+    'body': 'click the hidden element with the name of \"$1\" if it exists'
+  'clicks44':
+    'prefix': 'click the hidden element with the css selector of \"identifier\" if it exists'
+    'body': 'click the hidden element with the css selector of \"$1\" if it exists'
+  'clicks45':
+    'prefix': 'click the hidden element with the ID alias of \"identifier\"'
+    'body': 'click the hidden element with the ID alias of \"$1\"'
+  'clicks46':
+    'prefix': 'click the hidden element with the class alias of \"identifier\"'
+    'body': 'click the hidden element with the class alias of \"$1\"'
+  'clicks47':
+    'prefix': 'click the hidden element with the xpath alias of \"identifier\"'
+    'body': 'click the hidden element with the xpath alias of \"$1\"'
+  'clicks48':
+    'prefix': 'click the hidden element with the name alias of \"identifier\"'
+    'body': 'click the hidden element with the name alias of \"$1\"'
+  'clicks49':
+    'prefix': 'click the hidden element with the css selector alias of \"identifier\"'
+    'body': 'click the hidden element with the css selector alias of \"$1\"'
+  'clicks50':
+    'prefix': 'click the hidden element with the ID alias of \"identifier\" if it exists'
+    'body': 'click the hidden element with the ID alias of \"$1\" if it exists'
+  'clicks51':
+    'prefix': 'click the hidden element with the class alias of \"identifier\" if it exists'
+    'body': 'click the hidden element with the class alias of \"$1\" if it exists'
+  'clicks52':
+    'prefix': 'click the hidden element with the xpath alias of \"identifier\" if it exists'
+    'body': 'click the hidden element with the xpath alias of \"$1\" if it exists'
+  'clicks53':
+    'prefix': 'click the hidden element with the name alias of \"identifier\" if it exists'
+    'body': 'click the hidden element with the name alias of \"$1\" if it exists'
+  'clicks54':
+    'prefix': 'click the hidden element with the css selector alias of \"identifier\" if it exists'
+    'body': 'click the hidden element with the css selector alias of \"$1\" if it exists'
+  'clicks60':
+    'prefix': 'click the link with the text content of \"link text\"'
+    'body': 'click the link with the text content of \"$1\"'
+  'clicks61':
+    'prefix': 'click the link with the text content of \"link text\" if it exists'
+    'body': 'click the link with the text content of \"$1\" if it exists'
+  'clicks62':
+    'prefix': 'click the link with the text content of alias \"alias name\"'
+    'body': 'click the link with the text content of alias \"$1\"'
+  'clicks63':
+    'prefix': 'click the link with the text content of alias \"alias name\" if it exists'
+    'body': 'click the link with the text content of alias \"$1\" if it exists'
+  'clicks64':
+    'prefix': 'click the hidden link with the text content of \"link text\"'
+    'body': 'click the hidden link with the text content of \"$1\"'
+  'clicks65':
+    'prefix': 'click the hidden link with the text content of \"link text\" if it exists'
+    'body': 'click the hidden link with the text content of \"$1\" if it exists'
+  'clicks66':
+    'prefix': 'click the hidden link with the text content of alias \"alias name\"'
+    'body': 'click the hidden link with the text content of alias \"$1\"'
+  'clicks67':
+    'prefix': 'click the hidden link with the text content of alias \"alias name\" if it exists'
+    'body': 'click the hidden link with the text content of alias \"$1\" if it exists'
