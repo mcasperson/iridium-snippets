@@ -151,3 +151,28 @@
   'verify57':
     'prefix': 'verify that the element with the css selector of alias "identifier" should have a class of alias "class" if it exists'
     'body': 'verify that the element with the css selector of alias "$1" should have a class of alias "$2" if it exists'
+
+  'verify60':
+    'prefix': 'verify that the alias "alias" is empty'
+    'body': 'verify that the alias "$1" is empty'
+  'verify61':
+    'prefix': 'verify that the alias "alias" is not empty'
+    'body': 'verify that the alias "$1" is not empty'
+  'verify62':
+    'prefix': 'verify that the alias "alias" is a number'
+    'body': 'verify that the alias "$1" is a number'
+  'verify63':
+    'prefix': 'verify that the alias "alias" is not a number'
+    'body': 'verify that the alias "$1" is not a number'
+  'verify64':
+    'prefix': 'verify that the alias "alias" matches the regex "regex"'
+    'body': 'verify that the alias "$1" matches the regex "$2"'
+  'verify65':
+    'prefix': 'verify that the alias "alias" does not match the regex "regex"'
+    'body': 'verify that the alias "$1" does not match the regex "$2"'
+  'verify66':
+    'prefix': 'verify that the alias "alias" is equal to "value"'
+    'body': 'verify that the alias "$1" is equal to "$2"'
+  'verify67':
+    'prefix': 'verify that the alias "alias" is not equal to "value"'
+    'body': 'verify that the alias "$1" is not equal to "$2"'                              
