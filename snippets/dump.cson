@@ -1,0 +1,8 @@
+'.source.feature':
+
+  'dump1':
+    'prefix': 'dump the value of the cookie called "cookie"'
+    'body': 'dump the value of the cookie called "$1"'
+  'dump2':
+    'prefix': 'dump the alias map to the console'
+    'body': 'dump the alias map to the console'    
