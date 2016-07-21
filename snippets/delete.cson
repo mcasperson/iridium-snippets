@@ -1,0 +1,12 @@
+'.source.feature':
+
+  'delete1':
+    'prefix': 'delete cookies called "cookie"'
+    'body': 'delete cookies called "$1"'
+  'delete2':
+    'prefix': 'delete cookies called "cookie" with the path "path"'
+    'body': 'delete cookies called "$1" with the path "$2"'
+  'delete2':
+    'prefix': 'delete all cookies'
+    'body': 'delete all cookies'
+    
