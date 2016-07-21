@@ -9,4 +9,6 @@
   'delete2':
     'prefix': 'delete all cookies'
     'body': 'delete all cookies'
-    
+  'delete3':
+    'prefix': 'delete root AWSELB cookie from the request to the URL regex "regex"'
+    'body': 'delete root AWSELB cookie from the request to the URL regex "$1"'
