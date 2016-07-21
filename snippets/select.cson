@@ -149,152 +149,152 @@
     'prefix': 'select alias option number "option number" from the drop down list with the css selector of alias "indentifier" if it exists'
     'body': 'select alias "$1" from the drop down list with the css selector of alias "$2" if it exists'
 
-'select101':
-  'prefix': 'select "option text" from the drop down list found by "identifier"'
-  'body': 'select "$1" from the drop down list found by "$2"'
-'select102':
-  'prefix': 'select "option text" from the drop down list found by alias "identifier"'
-  'body': 'select "$1" from the drop down list found by alias "$2"'
-'select103':
-  'prefix': 'select "option text" from the drop down list found by "identifier" if it exists'
-  'body': 'select "$1" from the drop down list found by "$2" if it exists'
-'select104':
-  'prefix': 'select "option text" from the drop down list found by alias "identifier" if it exists'
-  'body': 'select "$1" from the drop down list found by alias "$2" if it exists'
-'select105':
-  'prefix': 'select alias "option text" from the drop down list found by "identifier"'
-  'body': 'select alias "$1" from the drop down list found by "$2"'
-'select106':
-  'prefix': 'select alias "option text" from the drop down list found by alias "identifier"'
-  'body': 'select alias "$1" from the drop down list found by alias "$2"'
-'select107':
-  'prefix': 'select alias "option text" from the drop down list found by "identifier" if it exists'
-  'body': 'select alias "$1" from the drop down list found by "$2" if it exists'
-'select108':
-  'prefix': 'select alias "option text" from the drop down list found by alias "identifier" if it exists'
-  'body': 'select alias "$1" from the drop down list found by alias "$2" if it exists'
+  'select101':
+    'prefix': 'select "option text" from the drop down list found by "identifier"'
+    'body': 'select "$1" from the drop down list found by "$2"'
+  'select102':
+    'prefix': 'select "option text" from the drop down list found by alias "identifier"'
+    'body': 'select "$1" from the drop down list found by alias "$2"'
+  'select103':
+    'prefix': 'select "option text" from the drop down list found by "identifier" if it exists'
+    'body': 'select "$1" from the drop down list found by "$2" if it exists'
+  'select104':
+    'prefix': 'select "option text" from the drop down list found by alias "identifier" if it exists'
+    'body': 'select "$1" from the drop down list found by alias "$2" if it exists'
+  'select105':
+    'prefix': 'select alias "option text" from the drop down list found by "identifier"'
+    'body': 'select alias "$1" from the drop down list found by "$2"'
+  'select106':
+    'prefix': 'select alias "option text" from the drop down list found by alias "identifier"'
+    'body': 'select alias "$1" from the drop down list found by alias "$2"'
+  'select107':
+    'prefix': 'select alias "option text" from the drop down list found by "identifier" if it exists'
+    'body': 'select alias "$1" from the drop down list found by "$2" if it exists'
+  'select108':
+    'prefix': 'select alias "option text" from the drop down list found by alias "identifier" if it exists'
+    'body': 'select alias "$1" from the drop down list found by alias "$2" if it exists'
 
-'select110':
-  'prefix': 'select "option text" from the drop down list with the ID of "indentifier"'
-  'body': 'select "$1" from the drop down list with the ID of "$2"'
-'select111':
-  'prefix': 'select "option text" from the drop down list with the ID of alias "indentifier"'
-  'body': 'select "$1" from the drop down list with the ID of alias "$2"'
-'select112':
-  'prefix': 'select "option text" from the drop down list with the ID of "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the ID of "$2" if it exists'
-'select113':
-  'prefix': 'select "option text" from the drop down list with the ID of alias "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the ID of alias "$2" if it exists'
-'select114':
-  'prefix': 'select alias "option text" from the drop down list with the ID of "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the ID of "$2"'
-'select115':
-  'prefix': 'select alias "option text" from the drop down list with the ID of alias "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the ID of alias "$2"'
-'select116':
-  'prefix': 'select alias "option text" from the drop down list with the ID of "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the ID of "$2" if it exists'
-'select117':
-  'prefix': 'select alias "option text" from the drop down list with the ID of alias "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the ID of alias "$2" if it exists'
+  'select110':
+    'prefix': 'select "option text" from the drop down list with the ID of "indentifier"'
+    'body': 'select "$1" from the drop down list with the ID of "$2"'
+  'select111':
+    'prefix': 'select "option text" from the drop down list with the ID of alias "indentifier"'
+    'body': 'select "$1" from the drop down list with the ID of alias "$2"'
+  'select112':
+    'prefix': 'select "option text" from the drop down list with the ID of "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the ID of "$2" if it exists'
+  'select113':
+    'prefix': 'select "option text" from the drop down list with the ID of alias "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the ID of alias "$2" if it exists'
+  'select114':
+    'prefix': 'select alias "option text" from the drop down list with the ID of "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the ID of "$2"'
+  'select115':
+    'prefix': 'select alias "option text" from the drop down list with the ID of alias "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the ID of alias "$2"'
+  'select116':
+    'prefix': 'select alias "option text" from the drop down list with the ID of "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the ID of "$2" if it exists'
+  'select117':
+    'prefix': 'select alias "option text" from the drop down list with the ID of alias "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the ID of alias "$2" if it exists'
 
-'select120':
-  'prefix': 'select "option text" from the drop down list with the class of "indentifier"'
-  'body': 'select "$1" from the drop down list with the class of "$2"'
-'select121':
-  'prefix': 'select "option text" from the drop down list with the class of alias "indentifier"'
-  'body': 'select "$1" from the drop down list with the class of alias "$2"'
-'select122':
-  'prefix': 'select "option text" from the drop down list with the class of "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the class of "$2" if it exists'
-'select123':
-  'prefix': 'select "option text" from the drop down list with the class of alias "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the class of alias "$2" if it exists'
-'select124':
-  'prefix': 'select alias "option text" from the drop down list with the class of "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the class of "$2"'
-'select125':
-  'prefix': 'select alias "option text" from the drop down list with the class of alias "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the class of alias "$2"'
-'select126':
-  'prefix': 'select alias "option text" from the drop down list with the class of "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the class of "$2" if it exists'
-'select127':
-  'prefix': 'select alias "option text" from the drop down list with the class of alias "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the class of alias "$2" if it exists'
+  'select120':
+    'prefix': 'select "option text" from the drop down list with the class of "indentifier"'
+    'body': 'select "$1" from the drop down list with the class of "$2"'
+  'select121':
+    'prefix': 'select "option text" from the drop down list with the class of alias "indentifier"'
+    'body': 'select "$1" from the drop down list with the class of alias "$2"'
+  'select122':
+    'prefix': 'select "option text" from the drop down list with the class of "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the class of "$2" if it exists'
+  'select123':
+    'prefix': 'select "option text" from the drop down list with the class of alias "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the class of alias "$2" if it exists'
+  'select124':
+    'prefix': 'select alias "option text" from the drop down list with the class of "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the class of "$2"'
+  'select125':
+    'prefix': 'select alias "option text" from the drop down list with the class of alias "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the class of alias "$2"'
+  'select126':
+    'prefix': 'select alias "option text" from the drop down list with the class of "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the class of "$2" if it exists'
+  'select127':
+    'prefix': 'select alias "option text" from the drop down list with the class of alias "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the class of alias "$2" if it exists'
 
-'select130':
-  'prefix': 'select "option text" from the drop down list with the xpath of "indentifier"'
-  'body': 'select "$1" from the drop down list with the xpath of "$2"'
-'select131':
-  'prefix': 'select "option text" from the drop down list with the xpath of alias "indentifier"'
-  'body': 'select "$1" from the drop down list with the xpath of alias "$2"'
-'select132':
-  'prefix': 'select "option text" from the drop down list with the xpath of "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the xpath of "$2" if it exists'
-'select133':
-  'prefix': 'select "option text" from the drop down list with the xpath of alias "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the xpath of alias "$2" if it exists'
-'select134':
-  'prefix': 'select alias "option text" from the drop down list with the xpath of "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the xpath of "$2"'
-'select135':
-  'prefix': 'select alias "option text" from the drop down list with the xpath of alias "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the xpath of alias "$2"'
-'select136':
-  'prefix': 'select alias "option text" from the drop down list with the xpath of "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the xpath of "$2" if it exists'
-'select137':
-  'prefix': 'select alias "option text" from the drop down list with the xpath of alias "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the xpath of alias "$2" if it exists'
+  'select130':
+    'prefix': 'select "option text" from the drop down list with the xpath of "indentifier"'
+    'body': 'select "$1" from the drop down list with the xpath of "$2"'
+  'select131':
+    'prefix': 'select "option text" from the drop down list with the xpath of alias "indentifier"'
+    'body': 'select "$1" from the drop down list with the xpath of alias "$2"'
+  'select132':
+    'prefix': 'select "option text" from the drop down list with the xpath of "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the xpath of "$2" if it exists'
+  'select133':
+    'prefix': 'select "option text" from the drop down list with the xpath of alias "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the xpath of alias "$2" if it exists'
+  'select134':
+    'prefix': 'select alias "option text" from the drop down list with the xpath of "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the xpath of "$2"'
+  'select135':
+    'prefix': 'select alias "option text" from the drop down list with the xpath of alias "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the xpath of alias "$2"'
+  'select136':
+    'prefix': 'select alias "option text" from the drop down list with the xpath of "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the xpath of "$2" if it exists'
+  'select137':
+    'prefix': 'select alias "option text" from the drop down list with the xpath of alias "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the xpath of alias "$2" if it exists'
 
-'select140':
-  'prefix': 'select "option text" from the drop down list with the name of "indentifier"'
-  'body': 'select "$1" from the drop down list with the name of "$2"'
-'select141':
-  'prefix': 'select "option text" from the drop down list with the name of alias "indentifier"'
-  'body': 'select "$1" from the drop down list with the name of alias "$2"'
-'select142':
-  'prefix': 'select "option text" from the drop down list with the name of "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the name of "$2" if it exists'
-'select143':
-  'prefix': 'select "option text" from the drop down list with the name of alias "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the name of alias "$2" if it exists'
-'select144':
-  'prefix': 'select alias "option text" from the drop down list with the name of "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the name of "$2"'
-'select145':
-  'prefix': 'select alias "option text" from the drop down list with the name of alias "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the name of alias "$2"'
-'select146':
-  'prefix': 'select alias "option text" from the drop down list with the name of "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the name of "$2" if it exists'
-'select147':
-  'prefix': 'select alias "option text" from the drop down list with the name of alias "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the name of alias "$2" if it exists'
+  'select140':
+    'prefix': 'select "option text" from the drop down list with the name of "indentifier"'
+    'body': 'select "$1" from the drop down list with the name of "$2"'
+  'select141':
+    'prefix': 'select "option text" from the drop down list with the name of alias "indentifier"'
+    'body': 'select "$1" from the drop down list with the name of alias "$2"'
+  'select142':
+    'prefix': 'select "option text" from the drop down list with the name of "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the name of "$2" if it exists'
+  'select143':
+    'prefix': 'select "option text" from the drop down list with the name of alias "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the name of alias "$2" if it exists'
+  'select144':
+    'prefix': 'select alias "option text" from the drop down list with the name of "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the name of "$2"'
+  'select145':
+    'prefix': 'select alias "option text" from the drop down list with the name of alias "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the name of alias "$2"'
+  'select146':
+    'prefix': 'select alias "option text" from the drop down list with the name of "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the name of "$2" if it exists'
+  'select147':
+    'prefix': 'select alias "option text" from the drop down list with the name of alias "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the name of alias "$2" if it exists'
 
-'select150':
-  'prefix': 'select "option text" from the drop down list with the css selector of "indentifier"'
-  'body': 'select "$1" from the drop down list with the name of "$2"'
-'select151':
-  'prefix': 'select "option text" from the drop down list with the css selector of alias "indentifier"'
-  'body': 'select "$1" from the drop down list with the name of alias "$2"'
-'select152':
-  'prefix': 'select "option text" from the drop down list with the css selector of "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the name of "$2" if it exists'
-'select153':
-  'prefix': 'select "option text" from the drop down list with the css selector of alias "indentifier" if it exists'
-  'body': 'select "$1" from the drop down list with the css selector of alias "$2" if it exists'
-'select154':
-  'prefix': 'select alias "option text" from the drop down list with the css selector of "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the css selector of "$2"'
-'select155':
-  'prefix': 'select alias "option text" from the drop down list with the css selector of alias "indentifier"'
-  'body': 'select alias "$1" from the drop down list with the css selector of alias "$2"'
-'select156':
-  'prefix': 'select alias "option text" from the drop down list with the css selector of "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the css selector of "$2" if it exists'
-'select157':
-  'prefix': 'select alias "option text" from the drop down list with the css selector of alias "indentifier" if it exists'
-  'body': 'select alias "$1" from the drop down list with the css selector of alias "$2" if it exists'
+  'select150':
+    'prefix': 'select "option text" from the drop down list with the css selector of "indentifier"'
+    'body': 'select "$1" from the drop down list with the name of "$2"'
+  'select151':
+    'prefix': 'select "option text" from the drop down list with the css selector of alias "indentifier"'
+    'body': 'select "$1" from the drop down list with the name of alias "$2"'
+  'select152':
+    'prefix': 'select "option text" from the drop down list with the css selector of "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the name of "$2" if it exists'
+  'select153':
+    'prefix': 'select "option text" from the drop down list with the css selector of alias "indentifier" if it exists'
+    'body': 'select "$1" from the drop down list with the css selector of alias "$2" if it exists'
+  'select154':
+    'prefix': 'select alias "option text" from the drop down list with the css selector of "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the css selector of "$2"'
+  'select155':
+    'prefix': 'select alias "option text" from the drop down list with the css selector of alias "indentifier"'
+    'body': 'select alias "$1" from the drop down list with the css selector of alias "$2"'
+  'select156':
+    'prefix': 'select alias "option text" from the drop down list with the css selector of "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the css selector of "$2" if it exists'
+  'select157':
+    'prefix': 'select alias "option text" from the drop down list with the css selector of alias "indentifier" if it exists'
+    'body': 'select alias "$1" from the drop down list with the css selector of alias "$2" if it exists'
