@@ -1,5 +1,6 @@
 "fileTypes": [
-    'feature'
+    'feature',
+    'fragment'
 ]
 "name": 'Gherkin'
 "patterns": [
