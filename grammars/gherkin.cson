@@ -54,6 +54,11 @@
         'name': 'source'
       }
     ]
+  'iridium_comment_markers':
+    'captures':
+      '1':
+        'name': 'keyword.language.iridium.marker'
+    'match': '^\\s*#IMPORT:'
   'feature_keyword':
     'captures':
       '1':
