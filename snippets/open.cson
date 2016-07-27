@@ -11,3 +11,6 @@
   'open4':
     'prefix': 'open the application "name"'
     'body': 'open the application "$1"'
+  'open5':
+    'prefix': 'open all links in new tabs and then close the tabs'
+    'body': 'open all links in new tabs and then close the tabs'
