@@ -22,6 +22,8 @@ The following prefixes trigger a list of snippets:
 * go
 * block
 * focus
+* delete
+* dump
 
 See the [Editor Support](https://autogeneral.gitbooks.io/iridiumapplicationtesting-gettingstartedguide/content/editor_support.html)
 chapter of the [Iridium Getting Started Guide](https://www.gitbook.com/book/autogeneral/iridiumapplicationtesting-gettingstartedguide/details)
