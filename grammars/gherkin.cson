@@ -43,7 +43,7 @@
     'captures':
       '0':
         'name': 'keyword.language.iridium.marker'
-    'match': '^\\s*#IMPORT:'
+    'match': '^\\s*#IMPORT:(.*)'
   'comments':
     'captures':
       '0':
