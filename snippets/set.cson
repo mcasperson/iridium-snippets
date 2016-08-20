@@ -8,3 +8,6 @@
           set the alias mappings
             | $1 | $2 |
           '''
+  'set3':
+    'prefix': 'set the default wait for elements to be available to "time" seconds'
+    'body': 'set the default wait for elements to be available to "$1" seconds'
