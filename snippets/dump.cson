@@ -5,4 +5,10 @@
     'body': 'dump the value of the cookie called "$1"'
   'dump2':
     'prefix': 'dump the alias map to the console'
-    'body': 'dump the alias map to the console'    
+    'body': 'dump the alias map to the console'
+  'dump3':
+    'prefix': 'dump the HAR file'
+    'body': 'dump the HAR file'
+  'dump4':
+    'prefix': 'dump the HAR file to "filename"'
+    'body': 'dump the HAR file to "$1"'

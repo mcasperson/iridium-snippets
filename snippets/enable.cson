@@ -1,0 +1,5 @@
+'.source.feature':
+
+  'enable1':
+    'prefix': 'enable HAR logging'
+    'body': 'enable HAR logging'
