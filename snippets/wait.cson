@@ -50,3 +50,42 @@
   'wait23':
     'prefix': 'wait "time" seconds for the element found by alias "identifier" to be present ignoring timeouts'
     'body': 'wait "$1" seconds for the element found by alias "$2" to be present ignoring timeouts'
+
+  'wait30':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be present'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be present'
+  'wait31':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be present ignoring timeouts'
+  'wait32':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be present'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be present'
+  'wait33':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be present ignoring timeouts'
+
+  'wait40':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be displayed'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be displayed'
+  'wait41':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be displayed ignoring timeouts'
+  'wait42':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be displayed'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be displayed'
+  'wait43':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be displayed ignoring timeouts'
+
+  'wait50':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be present'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be present'
+  'wait51':
+    'prefix': 'wait "time" seconds for the element found by "identifier" to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by "$2" to not be present ignoring timeouts'
+  'wait52':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be present'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be present'
+  'wait53':
+    'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the element found by alias "$2" to not be present ignoring timeouts'
