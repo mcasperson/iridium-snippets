@@ -2,115 +2,115 @@
 
   'dispatch1':
     'prefix': 'dispatch a key up event on the element found by "identifier"'
-    'body': 'dispatch a key up event on the element found by "$1"'
+    'body': 'dispatch a "keyup" event on the element found by "$1"'
   'dispatch2':
     'prefix': 'dispatch a key up event on the element found by alias "identifier"'
-    'body': 'dispatch a key up event on the element found by alias "$1"'
+    'body': 'dispatch a "keyup" event on the element found by alias "$1"'
   'dispatch3':
     'prefix': 'dispatch a key down event on the element found by "identifier"'
-    'body': 'dispatch a key down event on the element found by "$1"'
+    'body': 'dispatch a "keydown" event on the element found by "$1"'
   'dispatch4':
     'prefix': 'dispatch a key down event on the element found by alias "identifier"'
-    'body': 'dispatch a key down event on the element found by alias "$1"'
+    'body': 'dispatch a "keydown" event on the element found by alias "$1"'
   'dispatch5':
     'prefix': 'dispatch a key press event on the element found by "identifier"'
-    'body': 'dispatch a key press event on the element found by "$1"'
+    'body': 'dispatch a "keypress" event on the element found by "$1"'
   'dispatch6':
     'prefix': 'dispatch a key press event on the element found by alias "identifier"'
-    'body': 'dispatch a key press event on the element found by alias "$1"'
+    'body': 'dispatch a "keypress" event on the element found by alias "$1"'
 
   'dispatch7':
     'prefix': 'dispatch a key up event on the element with the ID of "identifier"'
-    'body': 'dispatch a key up event on the element with the ID of "$1"'
+    'body': 'dispatch a "keyup" event on the element with the ID of "$1"'
   'dispatch8':
     'prefix': 'dispatch a key up event on the element with the ID of alias "identifier"'
-    'body': 'dispatch a key up event on the element with the ID of alias "$1"'
+    'body': 'dispatch a "keyup" event on the element with the ID of alias "$1"'
   'dispatch9':
     'prefix': 'dispatch a key up event on the element with the class of "identifier"'
-    'body': 'dispatch a key up event on the element with the class of "$1"'
+    'body': 'dispatch a "keyup" event on the element with the class of "$1"'
   'dispatch10':
     'prefix': 'dispatch a key up event on the element with the class of alias "identifier"'
-    'body': 'dispatch a key up event on the element with the class of alias "$1"'
+    'body': 'dispatch a "keyup" event on the element with the class of alias "$1"'
   'dispatch11':
     'prefix': 'dispatch a key up event on the element with the xpath of "identifier"'
-    'body': 'dispatch a key up event on the element with the xpath of "$1"'
+    'body': 'dispatch a "keyup" event on the element with the xpath of "$1"'
   'dispatch12':
     'prefix': 'dispatch a key up event on the element with the xpath of alias "identifier"'
-    'body': 'dispatch a key up event on the element with the xpath of alias "$1"'
+    'body': 'dispatch a "keyup" event on the element with the xpath of alias "$1"'
   'dispatch13':
     'prefix': 'dispatch a key up event on the element with the name of "identifier"'
-    'body': 'dispatch a key up event on the element with the name of "$1"'
+    'body': 'dispatch a "keyup" event on the element with the name of "$1"'
   'dispatch14':
     'prefix': 'dispatch a key up event on the element with the name of alias "identifier"'
-    'body': 'dispatch a key up event on the element with the name of alias "$1"'
+    'body': 'dispatch a "keyup" event on the element with the name of alias "$1"'
   'dispatch15':
     'prefix': 'dispatch a key up event on the element with the css selector of "identifier"'
-    'body': 'dispatch a key up event on the element with the css selector of "$1"'
+    'body': 'dispatch a "keyup" event on the element with the css selector of "$1"'
   'dispatch16':
     'prefix': 'dispatch a key up event on the element with the css selector of alias "identifier"'
-    'body': 'dispatch a key up event on the element with the css selector of alias "$1"'
+    'body': 'dispatch a "keyup" event on the element with the css selector of alias "$1"'
 
   'dispatch17':
     'prefix': 'dispatch a key down event on the element with the ID of "identifier"'
-    'body': 'dispatch a key down event on the element with the ID of "$1"'
+    'body': 'dispatch a "keydown" event on the element with the ID of "$1"'
   'dispatch18':
     'prefix': 'dispatch a key down event on the element with the ID of alias "identifier"'
-    'body': 'dispatch a key down event on the element with the ID of alias "$1"'
+    'body': 'dispatch a "keydown" event on the element with the ID of alias "$1"'
   'dispatch19':
     'prefix': 'dispatch a key down event on the element with the class of "identifier"'
-    'body': 'dispatch a key down event on the element with the class of "$1"'
+    'body': 'dispatch a "keydown" event on the element with the class of "$1"'
   'dispatch20':
     'prefix': 'dispatch a key down event on the element with the class of alias "identifier"'
-    'body': 'dispatch a key down event on the element with the class of alias "$1"'
+    'body': 'dispatch a "keydown" event on the element with the class of alias "$1"'
   'dispatch21':
     'prefix': 'dispatch a key down event on the element with the xpath of "identifier"'
-    'body': 'dispatch a key down event on the element with the xpath of "$1"'
+    'body': 'dispatch a "keydown" event on the element with the xpath of "$1"'
   'dispatch22':
     'prefix': 'dispatch a key down event on the element with the xpath of alias "identifier"'
-    'body': 'dispatch a key down event on the element with the xpath of alias "$1"'
+    'body': 'dispatch a "keydown" event on the element with the xpath of alias "$1"'
   'dispatch23':
     'prefix': 'dispatch a key down event on the element with the name of "identifier"'
-    'body': 'dispatch a key down event on the element with the name of "$1"'
+    'body': 'dispatch a "keydown" event on the element with the name of "$1"'
   'dispatch24':
     'prefix': 'dispatch a key down event on the element with the name of alias "identifier"'
-    'body': 'dispatch a key down event on the element with the name of alias "$1"'
+    'body': 'dispatch a "keydown" event on the element with the name of alias "$1"'
   'dispatch25':
     'prefix': 'dispatch a key down event on the element with the css selector of "identifier"'
-    'body': 'dispatch a key down event on the element with the css selector of "$1"'
+    'body': 'dispatch a "keydown" event on the element with the css selector of "$1"'
   'dispatch26':
     'prefix': 'dispatch a key down event on the element with the css selector of alias "identifier"'
-    'body': 'dispatch a key down event on the element with the css selector of alias "$1"'
+    'body': 'dispatch a "keydown" event on the element with the css selector of alias "$1"'
 
   'dispatch27':
     'prefix': 'dispatch a key press event on the element with the ID of "identifier"'
-    'body': 'dispatch a key press event on the element with the ID of "$1"'
+    'body': 'dispatch a "keypress" event on the element with the ID of "$1"'
   'dispatch28':
     'prefix': 'dispatch a key press event on the element with the ID of alias "identifier"'
-    'body': 'dispatch a key press event on the element with the ID of alias "$1"'
+    'body': 'dispatch a "keypress" event on the element with the ID of alias "$1"'
   'dispatch29':
     'prefix': 'dispatch a key press event on the element with the class of "identifier"'
-    'body': 'dispatch a key press event on the element with the class of "$1"'
+    'body': 'dispatch a "keypress" event on the element with the class of "$1"'
   'dispatch30':
     'prefix': 'dispatch a key press event on the element with the class of alias "identifier"'
-    'body': 'dispatch a key press event on the element with the class of alias "$1"'
+    'body': 'dispatch a "keypress" event on the element with the class of alias "$1"'
   'dispatch31':
     'prefix': 'dispatch a key press event on the element with the xpath of "identifier"'
-    'body': 'dispatch a key press event on the element with the xpath of "$1"'
+    'body': 'dispatch a "keypress" event on the element with the xpath of "$1"'
   'dispatch32':
     'prefix': 'dispatch a key press event on the element with the xpath of alias "identifier"'
-    'body': 'dispatch a key press event on the element with the xpath of alias "$1"'
+    'body': 'dispatch a "keypress" event on the element with the xpath of alias "$1"'
   'dispatch33':
     'prefix': 'dispatch a key press event on the element with the name of "identifier"'
-    'body': 'dispatch a key press event on the element with the name of "$1"'
+    'body': 'dispatch a "keypress" event on the element with the name of "$1"'
   'dispatch34':
     'prefix': 'dispatch a key press event on the element with the name of alias "identifier"'
-    'body': 'dispatch a key press event on the element with the name of alias "$1"'
+    'body': 'dispatch a "keypress" event on the element with the name of alias "$1"'
   'dispatch35':
     'prefix': 'dispatch a key press event on the element with the css selector of "identifier"'
-    'body': 'dispatch a key press event on the element with the css selector of "$1"'
+    'body': 'dispatch a "keypress" event on the element with the css selector of "$1"'
   'dispatch36':
     'prefix': 'dispatch a key press event on the element with the css selector of alias "identifier"'
-    'body': 'dispatch a key press event on the element with the css selector of alias "$1"'                                              
+    'body': 'dispatch a "keypress" event on the element with the css selector of alias "$1"'                                              
 
   'dispatchcustom1':
     'prefix': 'dispatch a "change" event on the element found by "identifier"'
