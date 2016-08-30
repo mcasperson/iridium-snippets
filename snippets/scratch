@@ -1,72 +1,74 @@
-  'javascriptkeyevents1':
-    'prefix': 'key<something> on the hidden element found by "identifier"'
-    'body': '"$1" on the hidden element found by "$2"'
-  'javascriptkeyevents2':
-    'prefix': 'key<something> on the hidden element found by "identifier" if it exists'
-    'body': '"$1" on the hidden element found by "$2" if it exists'
-  'javascriptkeyevents3':
-    'prefix': 'key<something> on the hidden element found by alias "alias name"'
-    'body': '"$1" on the hidden element found by alias "$2"'
-  'javascriptkeyevents4':
-    'prefix': 'key<something> on the hidden element found by alias "alias name" if it exists'
-    'body': '"$1" on the hidden element found by alias "$2" if it exists'
-  'javascriptkeyevents10':
-    'prefix': 'key<something> on the hidden element with the ID of "identifier"'
-    'body': '"$1" on the hidden element with the ID of "$2"'
-  'javascriptkeyevents11':
-    'prefix': 'key<something> on the hidden element with the class of "identifier"'
-    'body': '"$1" on the hidden element with the class of "$2"'
-  'javascriptkeyevents12':
-    'prefix': 'key<something> on the hidden element with the xpath of "identifier"'
-    'body': '"$1" on the hidden element with the xpath of "$2"'
-  'javascriptkeyevents13':
-    'prefix': 'key<something> on the hidden element with the name of "identifier"'
-    'body': '"$1" on the hidden element with the name of "$2"'
-  'javascriptkeyevents14':
-    'prefix': 'key<something> on the hidden element with the css selector of "identifier"'
-    'body': '"$1" on the hidden element with the css selector of "$2"'
-  'javascriptkeyevents20':
-    'prefix': 'key<something> on the hidden element with the ID of "identifier" if it exists'
-    'body': '"$1" on the hidden element with the ID of "$2" if it exists'
-  'javascriptkeyevents21':
-    'prefix': 'key<something> on the hidden element with the class of "identifier" if it exists'
-    'body': '"$1" on the hidden element with the class of "$2" if it exists'
-  'javascriptkeyevents22':
-    'prefix': 'key<something> on the hidden element with the xpath of "identifier" if it exists'
-    'body': '"$1" on the hidden element with the xpath of "$2" if it exists'
-  'javascriptkeyevents23':
-    'prefix': 'key<something> on the hidden element with the name of "identifier" if it exists'
-    'body': '"$1" on the hidden element with the name of "$2" if it exists'
-  'javascriptkeyevents24':
-    'prefix': 'key<something> on the hidden element with the css selector of "identifier" if it exists'
-    'body': '"$1" on the hidden element with the css selector of "$2" if it exists'
-  'javascriptkeyevents30':
-    'prefix': 'key<something> on the hidden element with the ID alias of "identifier alias"'
-    'body': '"$1" on the hidden element with the ID alias of "$2"'
-  'javascriptkeyevents31':
-    'prefix': 'key<something> on the hidden element with the class alias of "identifier alias"'
-    'body': '"$1" on the hidden element with the class alias of "$2"'
-  'javascriptkeyevents32':
-    'prefix': 'key<something> on the hidden element with the xpath alias of "identifier alias"'
-    'body': '"$1" on the hidden element with the xpath alias of "$2"'
-  'javascriptkeyevents33':
-    'prefix': 'key<something> on the hidden element with the name alias of "identifier alias"'
-    'body': '"$1" on the hidden element with the name alias of "$2"'
-  'javascriptkeyevents34':
-    'prefix': 'key<something> on the hidden element with the css selector alias of "identifier alias"'
-    'body': '"$1" on the hidden element with the css selector alias of "$2"'
-  'javascriptkeyevents30':
-    'prefix': 'key<something> on the hidden element with the ID alias of "identifier alias" if it exists'
-    'body': '"$1" on the hidden element with the ID alias of "$2" if it exists'
-  'javascriptkeyevents31':
-    'prefix': 'key<something> on the hidden element with the class alias of "identifier alias" if it exists'
-    'body': '"$1" on the hidden element with the class alias of "$2" if it exists'
-  'javascriptkeyevents32':
-    'prefix': 'key<something> on the hidden element with the xpath alias of "identifier alias" if it exists'
-    'body': '"$1" on the hidden element with the xpath alias of "$2" if it exists'
-  'javascriptkeyevents33':
-    'prefix': 'key<something> on the hidden element with the name alias of "identifier alias" if it exists'
-    'body': '"$1" on the hidden element with the name alias of "$2" if it exists'
-  'javascriptkeyevents34':
-    'prefix': 'key<something> on the hidden element with the css selector alias of "identifier alias" if it exists'
-    'body': '"$1" on the hidden element with the css selector alias of "$2" if it exists'
+  'dispatchcustom1':
+    'prefix': 'dispatch a "change" event on the element found by "identifier"'
+    'body': 'dispatch a "change" event on the element found by "$1"'
+  'dispatchcustom2':
+    'prefix': 'dispatch a "change" event on the element found by alias "identifier"'
+    'body': 'dispatch a "change" event on the element found by alias "$1"'
+  'dispatchcustom3':
+    'prefix': 'dispatch a "focus" event on the element found by "identifier"'
+    'body': 'dispatch a "focus" event on the element found by "$1"'
+  'dispatchcustom4':
+    'prefix': 'dispatch a "focus" event on the element found by alias "identifier"'
+    'body': 'dispatch a "focus" event on the element found by alias "$1"'
+
+  'dispatchcustom7':
+    'prefix': 'dispatch a "change" event on the element with the ID of "identifier"'
+    'body': 'dispatch a "change" event on the element with the ID of "$1"'
+  'dispatchcustom8':
+    'prefix': 'dispatch a "change" event on the element with the ID of alias "identifier"'
+    'body': 'dispatch a "change" event on the element with the ID of alias "$1"'
+  'dispatchcustom9':
+    'prefix': 'dispatch a "change" event on the element with the class of "identifier"'
+    'body': 'dispatch a "change" event on the element with the class of "$1"'
+  'dispatchcustom10':
+    'prefix': 'dispatch a "change" event on the element with the class of alias "identifier"'
+    'body': 'dispatch a "change" event on the element with the class of alias "$1"'
+  'dispatchcustom11':
+    'prefix': 'dispatch a "change" event on the element with the xpath of "identifier"'
+    'body': 'dispatch a "change" event on the element with the xpath of "$1"'
+  'dispatchcustom12':
+    'prefix': 'dispatch a "change" event on the element with the xpath of alias "identifier"'
+    'body': 'dispatch a "change" event on the element with the xpath of alias "$1"'
+  'dispatchcustom13':
+    'prefix': 'dispatch a "change" event on the element with the name of "identifier"'
+    'body': 'dispatch a "change" event on the element with the name of "$1"'
+  'dispatchcustom14':
+    'prefix': 'dispatch a "change" event on the element with the name of alias "identifier"'
+    'body': 'dispatch a "change" event on the element with the name of alias "$1"'
+  'dispatchcustom15':
+    'prefix': 'dispatch a "change" event on the element with the css selector of "identifier"'
+    'body': 'dispatch a "change" event on the element with the css selector of "$1"'
+  'dispatchcustom16':
+    'prefix': 'dispatch a "change" event on the element with the css selector of alias "identifier"'
+    'body': 'dispatch a "change" event on the element with the css selector of alias "$1"'
+
+  'dispatchcustom17':
+    'prefix': 'dispatch a "focus" event on the element with the ID of "identifier"'
+    'body': 'dispatch a "focus" event on the element with the ID of "$1"'
+  'dispatchcustom18':
+    'prefix': 'dispatch a "focus" event on the element with the ID of alias "identifier"'
+    'body': 'dispatch a "focus" event on the element with the ID of alias "$1"'
+  'dispatchcustom19':
+    'prefix': 'dispatch a "focus" event on the element with the class of "identifier"'
+    'body': 'dispatch a "focus" event on the element with the class of "$1"'
+  'dispatchcustom20':
+    'prefix': 'dispatch a "focus" event on the element with the class of alias "identifier"'
+    'body': 'dispatch a "focus" event on the element with the class of alias "$1"'
+  'dispatchcustom21':
+    'prefix': 'dispatch a "focus" event on the element with the xpath of "identifier"'
+    'body': 'dispatch a "focus" event on the element with the xpath of "$1"'
+  'dispatchcustom22':
+    'prefix': 'dispatch a "focus" event on the element with the xpath of alias "identifier"'
+    'body': 'dispatch a "focus" event on the element with the xpath of alias "$1"'
+  'dispatchcustom23':
+    'prefix': 'dispatch a "focus" event on the element with the name of "identifier"'
+    'body': 'dispatch a "focus" event on the element with the name of "$1"'
+  'dispatchcustom24':
+    'prefix': 'dispatch a "focus" event on the element with the name of alias "identifier"'
+    'body': 'dispatch a "focus" event on the element with the name of alias "$1"'
+  'dispatchcustom25':
+    'prefix': 'dispatch a "focus" event on the element with the css selector of "identifier"'
+    'body': 'dispatch a "focus" event on the element with the css selector of "$1"'
+  'dispatchcustom26':
+    'prefix': 'dispatch a "focus" event on the element with the css selector of alias "identifier"'
+    'body': 'dispatch a "focus" event on the element with the css selector of alias "$1"'
