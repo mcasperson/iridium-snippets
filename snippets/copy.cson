@@ -1,0 +1,4 @@
+'.source.feature':
+  'copy1':
+    'prefix': 'copy the alias "source" to the alias "destination"'
+    'body': 'copy the alias "$1" to the alias "$2"'
