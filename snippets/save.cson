@@ -364,3 +364,7 @@
   'save544':
     'prefix': 'save the value of the element with the css selector alias of "identifier alias" to the alias "alias" if it exists'
     'body': 'save the value of the element with the css selector alias of "$1" to the alias "$2" if it exists'
+
+  'save600':
+    'prefix': 'save the current date with the format "format" to the alias "alias"'
+    'body': 'save the current date with the format "$1" to the alias "$2"'
