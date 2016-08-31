@@ -368,3 +368,6 @@
   'save600':
     'prefix': 'save the current date with the format "format" to the alias "alias"'
     'body': 'save the current date with the format "$1" to the alias "$2"'
+  'save601':
+      'prefix': 'save the current date offset by "offset" with the format "format" to the alias "alias"'
+      'body': 'save the current date offset by "$1" with the format "$2" to the alias "$3"'
