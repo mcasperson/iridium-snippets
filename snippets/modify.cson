@@ -26,9 +26,3 @@
    'modify8':
      'prefix': 'copy the alias "alias" to the alias "alias"'
      'body': 'copy the alias "$1" to the alias "$2"'
-   'modify9':
-     'prefix': 'save the current date with the format "format" to the alias "alias"'
-     'body': 'save the current date with the format "$1" to the alias "$2"'
-   'modify10':
-     'prefix': 'save the current date offset by "offset (1 day or 2 weeks etc)" with the format "format" to the alias "alias"'
-     'body': 'save the current date offset by "$1" with the format "$2" to the alias "$3"'
