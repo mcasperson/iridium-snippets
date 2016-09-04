@@ -1,0 +1,34 @@
+'.source.feature':
+  'modify1':
+    'prefix': 'modify the alias "alias" by removing all characters that match the regex "regex"'
+    'body': 'modify the alias "$1" by removing all characters that match the regex "$2"'
+  'modify2':
+    'prefix': 'modify the alias "alias" by replacing all characters that match the regex "regex" with "replacement"'
+    'body': 'modify the alias "$1" by replacing all characters that match the regex "$2" with "replacement"'
+  'modify3':
+    'prefix': 'modify the alias "alias" by replacing the first characters that match the regex "regex" with "replacement"'
+    'body': 'modify the alias "$1" by replacing the first characters that match the regex "$2" with "$3"'
+   'modify3':
+     'prefix': 'modify the alias "alias" by prepending it with "text"'
+     'body': 'modify the alias "$1" by prepending it with "$2"'
+   'modify4':
+     'prefix': 'modify the alias "alias" by prepending it with alias "alias"'
+     'body': 'modify the alias "$1" by prepending it with alias "$2"'
+   'modify5':
+     'prefix': 'modify the alias "alias" by appending it with "text"'
+     'body': 'modify the alias "$1" by appending it with "$2"'
+   'modify6':
+     'prefix': 'modify the alias "alias" by appending it with alias "alias"'
+     'body': 'modify the alias "$1" by appending it with alias "$2"'
+   'modify7':
+     'prefix': 'modify the alias "alias" by trimming it'
+     'body': 'modify the alias "$1" by trimming it'
+   'modify8':
+     'prefix': 'copy the alias "alias" to the alias "alias"'
+     'body': 'copy the alias "$1" to the alias "$2"'
+   'modify9':
+     'prefix': 'save the current date with the format "format" to the alias "alias"'
+     'body': 'save the current date with the format "$1" to the alias "$2"'
+   'modify10':
+     'prefix': 'save the current date offset by "offset (1 day or 2 weeks etc)" with the format "format" to the alias "alias"'
+     'body': 'save the current date offset by "$1" with the format "$2" to the alias "$3"'
