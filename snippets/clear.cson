@@ -1,0 +1,4 @@
+'.source.feature':
+  'clear1':
+    'prefix': 'clear the element found by \"identifier\"'
+    'body': 'clear the element found by \"$1\"'
