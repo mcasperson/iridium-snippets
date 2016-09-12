@@ -1,0 +1,4 @@
+'.source.feature':
+  'skip1':
+    'prefix': 'skip all remaining steps'
+    'body': 'skip all remaining steps'
