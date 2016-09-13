@@ -5,3 +5,6 @@
   'go2':
     'prefix': 'go forward'
     'body': 'go forward'
+  'go3':
+    'prefix': 'go to the hash location called "hash"'
+    'body': 'go to the hash location called "$1"'
