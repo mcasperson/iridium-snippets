@@ -175,7 +175,13 @@
     'body': 'verify that the alias "$1" is equal to "$2"'
   'verify67':
     'prefix': 'verify that the alias "alias" is not equal to "value"'
-    'body': 'verify that the alias "$1" is not equal to "$2"'                              
+    'body': 'verify that the alias "$1" is not equal to "$2"'
+  'verify68':
+    'prefix': 'verify that the alias "alias" is equal to alias "value"'
+    'body': 'verify that the alias "$1" is equal to alias "$2"'
+  'verify69':
+    'prefix': 'verify that the alias "alias" is not equal to alias "value"'
+    'body': 'verify that the alias "$1" is not equal to alias "$2"'
 
   'verify70':
     'prefix': 'verify that the page contains the text "text"'
