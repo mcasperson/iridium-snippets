@@ -371,3 +371,34 @@
   'save601':
       'prefix': 'save the current date offset by "offset" with the format "format" to the alias "alias"'
       'body': 'save the current date offset by "$1" with the format "$2" to the alias "$3"'
+
+  'save701':
+      'prefix': 'save the content of the first selected option from the drop down list found by "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list found by "$1" to the alias "$2"'
+  'save702':
+      'prefix': 'save the content of the first selected option from the drop down list with the ID of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the ID of "$1" to the alias "$2"'
+  'save703':
+      'prefix': 'save the content of the first selected option from the drop down list with the css selector of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the css selector of "$1" to the alias "$2"'
+  'save704':
+      'prefix': 'save the content of the first selected option from the drop down list with the xpath of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the xpath of "$1" to the alias "$2"'
+  'save704':
+      'prefix': 'save the content of the first selected option from the drop down list with the class of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the class of "$1" to the alias "$2"'
+  'save705':
+      'prefix': 'save the content of the first selected option from the drop down list found by alias "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list found by alias "$1" to the alias "$2"'
+  'save706':
+      'prefix': 'save the content of the first selected option from the drop down list with the ID alias of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the ID alias of "$1" to the alias "$2"'
+  'save707':
+      'prefix': 'save the content of the first selected option from the drop down list with the css selector alias of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the css selector alias of "$1" to the alias "$2"'
+  'save708':
+      'prefix': 'save the content of the first selected option from the drop down list with the xpath alias of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the xpath alias of "$1" to the alias "$2"'
+  'save709':
+      'prefix': 'save the content of the first selected option from the drop down list with the class alias of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the class alias of "$1" to the alias "$2"'
