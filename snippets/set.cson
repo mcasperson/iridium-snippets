@@ -11,3 +11,6 @@
   'set3':
     'prefix': 'set the default wait for elements to be available to "time" seconds'
     'body': 'set the default wait for elements to be available to "$1" seconds'
+  'set4':
+    'prefix': 'set the default keystroke delay to "delay" milliseconds'
+    'body': 'set the default keystroke delay to "$1" milliseconds'
