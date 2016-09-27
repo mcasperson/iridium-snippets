@@ -190,13 +190,27 @@
     'prefix': 'verify that the page contains the text alias "text"'
     'body': 'verify that the page contains the text alias "$1"'
 
-    'verify70':
+  'verify72':
+    'prefix': 'verify that the page contains the regex "text"'
+    'body': 'verify that the page contains the regex "$1"'
+  'verify73':
+    'prefix': 'verify that the page contains the regex alias "text"'
+    'body': 'verify that the page contains the regex alias "$1"'
+
+    'verify74':
       'prefix': 'verify that the page does not contain the text "text"'
       'body': 'verify that the page does not contain the text "$1"'
-    'verify71':
+    'verify75':
       'prefix': 'verify that the page does not contain the text alias "text"'
       'body': 'verify that the page does not contain the text alias "$1"'
 
-  'verify80':
+    'verify76':
+      'prefix': 'verify that the page does not contain the regex "text"'
+      'body': 'verify that the page does not contain the regex "$1"'
+    'verify77':
+      'prefix': 'verify that the page does not contain the regex alias "text"'
+      'body': 'verify that the page does not contain the regex alias "$1"'
+
+  'verify90':
     'prefix': 'verify that there were no HTTP errors'
     'body': 'verify that there were no HTTP errors'
