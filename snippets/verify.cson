@@ -205,15 +205,15 @@
       'body': 'verify that the page does not contain the text alias "$1"'
 
     'verify76':
-      'prefix': 'verify that the page does not contain the regex "text"'
-      'body': 'verify that the page does not contain the regex "$1"'
+        'prefix': 'verify that the page does not contain the regex "text"'
+        'body': 'verify that the page does not contain the regex "$1"'
     'verify77':
-      'prefix': 'verify that the page does not contain the regex alias "text"'
-      'body': 'verify that the page does not contain the regex alias "$1"'
+        'prefix': 'verify that the page does not contain the regex alias "text"'
+        'body': 'verify that the page does not contain the regex alias "$1"'
 
-  'verify90':
-    'prefix': 'verify that there were no HTTP errors'
-    'body': 'verify that there were no HTTP errors'
+    'verify90':
+        'prefix': 'verify that there were no HTTP errors'
+        'body': 'verify that there were no HTTP errors'
 
     'verify100':
         'prefix': 'verify the element found by "identifier" is displayed'
@@ -269,22 +269,297 @@
     'verify117':
         'prefix': 'verify the element found by "identifier" is not clickable within "time" seconds ignoring timeouts'
         'body': 'verify the element found by "$1" is not clickable within "$2" seconds ignoring timeouts'
+        
+    'verify130':
+        'prefix': 'verify the element with the ID of "identifier" is displayed'
+        'body': 'verify the element the ID of "$1" is displayed'
+    'verify131':
+        'prefix': 'verify the element the ID of "identifier" is displayed within "time" seconds'
+        'body': 'verify the element the ID of "$1" is displayed within "$2" seconds'
+    'verify132':
+        'prefix': 'verify the element the ID of "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify133':
+        'prefix': 'verify the element the ID of "identifier" is present'
+        'body': 'verify the element the ID of "$1" is present'
+    'verify134':
+        'prefix': 'verify the element the ID of "identifier" is present within "time" seconds'
+        'body': 'verify the element the ID of "$1" is present within "$2" seconds'
+    'verify135':
+        'prefix': 'verify the element the ID of "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is present within "$2" seconds ignoring timeouts'
+    'verify136':
+        'prefix': 'verify the element the ID of "identifier" is clickable'
+        'body': 'verify the element the ID of "$1" is clickable'
+    'verify137':
+        'prefix': 'verify the element the ID of "identifier" is clickable within "time" seconds'
+        'body': 'verify the element the ID of "$1" is clickable within "$2" seconds'
+    'verify138':
+        'prefix': 'verify the element the ID of "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify139':
+        'prefix': 'verify the element the ID of "identifier" is not displayed'
+        'body': 'verify the element the ID of "$1" is not displayed'
+    'verify140':
+        'prefix': 'verify the element the ID of "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element the ID of "$1" is not displayed within "$2" seconds'
+    'verify141':
+        'prefix': 'verify the element the ID of "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify142':
+        'prefix': 'verify the element the ID of "identifier" is not present'
+        'body': 'verify the element the ID of "$1" is not present'
+    'verify143':
+        'prefix': 'verify the element the ID of "identifier" is not present within "time" seconds'
+        'body': 'verify the element the ID of "$1" is not present within "$2" seconds'
+    'verify144':
+        'prefix': 'verify the element the ID of "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify145':
+        'prefix': 'verify the element the ID of "identifier" is not clickable'
+        'body': 'verify the element the ID of "$1" is not clickable'
+    'verify146':
+        'prefix': 'verify the element the ID of "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element the ID of "$1" is not clickable within "$2" seconds'
+    'verify147':
+        'prefix': 'verify the element the ID of "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the ID of "$1" is not clickable within "$2" seconds ignoring timeouts'  
+              
+    'verify160':
+        'prefix': 'verify the element with the css selector of "identifier" is displayed'
+        'body': 'verify the element the css selector of "$1" is displayed'
+    'verify161':
+        'prefix': 'verify the element the css selector of "identifier" is displayed within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is displayed within "$2" seconds'
+    'verify162':
+        'prefix': 'verify the element the css selector of "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify163':
+        'prefix': 'verify the element the css selector of "identifier" is present'
+        'body': 'verify the element the css selector of "$1" is present'
+    'verify164':
+        'prefix': 'verify the element the css selector of "identifier" is present within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is present within "$2" seconds'
+    'verify165':
+        'prefix': 'verify the element the css selector of "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is present within "$2" seconds ignoring timeouts'
+    'verify166':
+        'prefix': 'verify the element the css selector of "identifier" is clickable'
+        'body': 'verify the element the css selector of "$1" is clickable'
+    'verify167':
+        'prefix': 'verify the element the css selector of "identifier" is clickable within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is clickable within "$2" seconds'
+    'verify168':
+        'prefix': 'verify the element the css selector of "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify169':
+        'prefix': 'verify the element the css selector of "identifier" is not displayed'
+        'body': 'verify the element the css selector of "$1" is not displayed'
+    'verify170':
+        'prefix': 'verify the element the css selector of "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is not displayed within "$2" seconds'
+    'verify171':
+        'prefix': 'verify the element the css selector of "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify172':
+        'prefix': 'verify the element the css selector of "identifier" is not present'
+        'body': 'verify the element the css selector of "$1" is not present'
+    'verify173':
+        'prefix': 'verify the element the css selector of "identifier" is not present within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is not present within "$2" seconds'
+    'verify174':
+        'prefix': 'verify the element the css selector of "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify175':
+        'prefix': 'verify the element the css selector of "identifier" is not clickable'
+        'body': 'verify the element the css selector of "$1" is not clickable'
+    'verify176':
+        'prefix': 'verify the element the css selector of "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element the css selector of "$1" is not clickable within "$2" seconds'
+    'verify177':
+        'prefix': 'verify the element the css selector of "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the css selector of "$1" is not clickable within "$2" seconds ignoring timeouts'     
+                  
+    'verify190':
+        'prefix': 'verify the element with the class of "identifier" is displayed'
+        'body': 'verify the element the class of "$1" is displayed'
+    'verify191':
+        'prefix': 'verify the element the class of "identifier" is displayed within "time" seconds'
+        'body': 'verify the element the class of "$1" is displayed within "$2" seconds'
+    'verify192':
+        'prefix': 'verify the element the class of "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify193':
+        'prefix': 'verify the element the class of "identifier" is present'
+        'body': 'verify the element the class of "$1" is present'
+    'verify194':
+        'prefix': 'verify the element the class of "identifier" is present within "time" seconds'
+        'body': 'verify the element the class of "$1" is present within "$2" seconds'
+    'verify195':
+        'prefix': 'verify the element the class of "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is present within "$2" seconds ignoring timeouts'
+    'verify196':
+        'prefix': 'verify the element the class of "identifier" is clickable'
+        'body': 'verify the element the class of "$1" is clickable'
+    'verify197':
+        'prefix': 'verify the element the class of "identifier" is clickable within "time" seconds'
+        'body': 'verify the element the class of "$1" is clickable within "$2" seconds'
+    'verify198':
+        'prefix': 'verify the element the class of "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify199':
+        'prefix': 'verify the element the class of "identifier" is not displayed'
+        'body': 'verify the element the class of "$1" is not displayed'
+    'verify200':
+        'prefix': 'verify the element the class of "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element the class of "$1" is not displayed within "$2" seconds'
+    'verify201':
+        'prefix': 'verify the element the class of "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify202':
+        'prefix': 'verify the element the class of "identifier" is not present'
+        'body': 'verify the element the class of "$1" is not present'
+    'verify203':
+        'prefix': 'verify the element the class of "identifier" is not present within "time" seconds'
+        'body': 'verify the element the class of "$1" is not present within "$2" seconds'
+    'verify204':
+        'prefix': 'verify the element the class of "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify205':
+        'prefix': 'verify the element the class of "identifier" is not clickable'
+        'body': 'verify the element the class of "$1" is not clickable'
+    'verify206':
+        'prefix': 'verify the element the class of "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element the class of "$1" is not clickable within "$2" seconds'
+    'verify207':
+        'prefix': 'verify the element the class of "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the class of "$1" is not clickable within "$2" seconds ignoring timeouts'     
+                      
+    'verify220':
+        'prefix': 'verify the element with the xpath of "identifier" is displayed'
+        'body': 'verify the element the xpath of "$1" is displayed'
+    'verify221':
+        'prefix': 'verify the element the xpath of "identifier" is displayed within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is displayed within "$2" seconds'
+    'verify222':
+        'prefix': 'verify the element the xpath of "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify223':
+        'prefix': 'verify the element the xpath of "identifier" is present'
+        'body': 'verify the element the xpath of "$1" is present'
+    'verify224':
+        'prefix': 'verify the element the xpath of "identifier" is present within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is present within "$2" seconds'
+    'verify225':
+        'prefix': 'verify the element the xpath of "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is present within "$2" seconds ignoring timeouts'
+    'verify226':
+        'prefix': 'verify the element the xpath of "identifier" is clickable'
+        'body': 'verify the element the xpath of "$1" is clickable'
+    'verify227':
+        'prefix': 'verify the element the xpath of "identifier" is clickable within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is clickable within "$2" seconds'
+    'verify228':
+        'prefix': 'verify the element the xpath of "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify229':
+        'prefix': 'verify the element the xpath of "identifier" is not displayed'
+        'body': 'verify the element the xpath of "$1" is not displayed'
+    'verify230':
+        'prefix': 'verify the element the xpath of "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is not displayed within "$2" seconds'
+    'verify231':
+        'prefix': 'verify the element the xpath of "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify232':
+        'prefix': 'verify the element the xpath of "identifier" is not present'
+        'body': 'verify the element the xpath of "$1" is not present'
+    'verify233':
+        'prefix': 'verify the element the xpath of "identifier" is not present within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is not present within "$2" seconds'
+    'verify234':
+        'prefix': 'verify the element the xpath of "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify235':
+        'prefix': 'verify the element the xpath of "identifier" is not clickable'
+        'body': 'verify the element the xpath of "$1" is not clickable'
+    'verify236':
+        'prefix': 'verify the element the xpath of "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element the xpath of "$1" is not clickable within "$2" seconds'
+    'verify237':
+        'prefix': 'verify the element the xpath of "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the xpath of "$1" is not clickable within "$2" seconds ignoring timeouts'   
+                            
+    'verify250':
+        'prefix': 'verify the element with the name of "identifier" is displayed'
+        'body': 'verify the element the name of "$1" is displayed'
+    'verify251':
+        'prefix': 'verify the element the name of "identifier" is displayed within "time" seconds'
+        'body': 'verify the element the name of "$1" is displayed within "$2" seconds'
+    'verify252':
+        'prefix': 'verify the element the name of "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify253':
+        'prefix': 'verify the element the name of "identifier" is present'
+        'body': 'verify the element the name of "$1" is present'
+    'verify254':
+        'prefix': 'verify the element the name of "identifier" is present within "time" seconds'
+        'body': 'verify the element the name of "$1" is present within "$2" seconds'
+    'verify255':
+        'prefix': 'verify the element the name of "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is present within "$2" seconds ignoring timeouts'
+    'verify256':
+        'prefix': 'verify the element the name of "identifier" is clickable'
+        'body': 'verify the element the name of "$1" is clickable'
+    'verify257':
+        'prefix': 'verify the element the name of "identifier" is clickable within "time" seconds'
+        'body': 'verify the element the name of "$1" is clickable within "$2" seconds'
+    'verify258':
+        'prefix': 'verify the element the name of "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify259':
+        'prefix': 'verify the element the name of "identifier" is not displayed'
+        'body': 'verify the element the name of "$1" is not displayed'
+    'verify260':
+        'prefix': 'verify the element the name of "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element the name of "$1" is not displayed within "$2" seconds'
+    'verify261':
+        'prefix': 'verify the element the name of "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify262':
+        'prefix': 'verify the element the name of "identifier" is not present'
+        'body': 'verify the element the name of "$1" is not present'
+    'verify263':
+        'prefix': 'verify the element the name of "identifier" is not present within "time" seconds'
+        'body': 'verify the element the name of "$1" is not present within "$2" seconds'
+    'verify264':
+        'prefix': 'verify the element the name of "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify265':
+        'prefix': 'verify the element the name of "identifier" is not clickable'
+        'body': 'verify the element the name of "$1" is not clickable'
+    'verify266':
+        'prefix': 'verify the element the name of "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element the name of "$1" is not clickable within "$2" seconds'
+    'verify267':
+        'prefix': 'verify the element the name of "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element the name of "$1" is not clickable within "$2" seconds ignoring timeouts'                                 
 
-     'verify120':
+     'verify200':
          'prefix': 'verify a link with the text content of "identifier" is present'
          'body': 'verify a link with the text content of "$1" is present'
-     'verify121':
+     'verify201':
          'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
-     'verify122':
+     'verify202':
          'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds ignoring timeouts'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
-     'verify123':
+     'verify203':
          'prefix': 'verify a link with the text content of "identifier" is not present'
          'body': 'verify a link with the text content of "$1" is present'
-     'verify124':
+     'verify204':
          'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
-     'verify125':
+     'verify205':
          'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds ignoring timeouts'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
