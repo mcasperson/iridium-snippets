@@ -214,3 +214,77 @@
   'verify90':
     'prefix': 'verify that there were no HTTP errors'
     'body': 'verify that there were no HTTP errors'
+
+    'verify100':
+        'prefix': 'verify the element found by "identifier" is displayed'
+        'body': 'verify the element found by "$1" is displayed'
+    'verify101':
+        'prefix': 'verify the element found by "identifier" is displayed within "time" seconds'
+        'body': 'verify the element found by "$1" is displayed within "$2" seconds'
+    'verify102':
+        'prefix': 'verify the element found by "identifier" is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is displayed within "$2" seconds ignoring timeouts"
+    'verify103':
+        'prefix': 'verify the element found by "identifier" is present'
+        'body': 'verify the element found by "$1" is present'
+    'verify104':
+        'prefix': 'verify the element found by "identifier" is present within "time" seconds'
+        'body': 'verify the element found by "$1" is present within "$2" seconds'
+    'verify105':
+        'prefix': 'verify the element found by "identifier" is present within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is present within "$2" seconds ignoring timeouts'
+    'verify106':
+        'prefix': 'verify the element found by "identifier" is clickable'
+        'body': 'verify the element found by "$1" is clickable'
+    'verify107':
+        'prefix': 'verify the element found by "identifier" is clickable within "time" seconds'
+        'body': 'verify the element found by "$1" is clickable within "$2" seconds'
+    'verify108':
+        'prefix': 'verify the element found by "identifier" is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is clickable within "$2" seconds ignoring timeouts'
+    'verify109':
+        'prefix': 'verify the element found by "identifier" is not displayed'
+        'body': 'verify the element found by "$1" is not displayed'
+    'verify110':
+        'prefix': 'verify the element found by "identifier" is not displayed within "time" seconds'
+        'body': 'verify the element found by "$1" is not displayed within "$2" seconds'
+    'verify111':
+        'prefix': 'verify the element found by "identifier" is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is not displayed within "$2" seconds ignoring timeouts"
+    'verify112':
+        'prefix': 'verify the element found by "identifier" is not present'
+        'body': 'verify the element found by "$1" is not present'
+    'verify113':
+        'prefix': 'verify the element found by "identifier" is not present within "time" seconds'
+        'body': 'verify the element found by "$1" is not present within "$2" seconds'
+    'verify114':
+        'prefix': 'verify the element found by "identifier" is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is not present within "$2" seconds ignoring timeouts'
+    'verify115':
+        'prefix': 'verify the element found by "identifier" is not clickable'
+        'body': 'verify the element found by "$1" is not clickable'
+    'verify116':
+        'prefix': 'verify the element found by "identifier" is not clickable within "time" seconds'
+        'body': 'verify the element found by "$1" is not clickable within "$2" seconds'
+    'verify117':
+        'prefix': 'verify the element found by "identifier" is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the element found by "$1" is not clickable within "$2" seconds ignoring timeouts'
+
+     'verify120':
+         'prefix': 'verify a link with the text content of "identifier" is present'
+         'body': 'verify a link with the text content of "$1" is present'
+     'verify121':
+         'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds'
+         'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
+     'verify122':
+         'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds ignoring timeouts'
+         'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
+     'verify123':
+         'prefix': 'verify a link with the text content of "identifier" is not present'
+         'body': 'verify a link with the text content of "$1" is present'
+     'verify124':
+         'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds'
+         'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
+     'verify125':
+         'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds ignoring timeouts'
+         'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
