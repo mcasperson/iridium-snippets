@@ -89,3 +89,10 @@
   'wait53':
     'prefix': 'wait "time" seconds for the element found by alias "identifier" to not be present ignoring timeouts'
     'body': 'wait "$1" seconds for the element found by alias "$2" to not be present ignoring timeouts'
+
+  'wait60':
+    'prefix': 'wait "time" seconds for the for the page to contain the text "text"'
+    'body': 'wait "$1" seconds for the for the page to contain the text "$2"'
+  'wait61':
+      'prefix': 'wait "time" seconds for the for the page to contain the text alias "text"'
+      'body': 'wait "$1" seconds for the for the page to contain the text alias "$2"'
