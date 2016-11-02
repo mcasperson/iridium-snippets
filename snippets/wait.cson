@@ -92,13 +92,13 @@
 
   'wait60':
     'prefix': 'wait "time" seconds for the page to contain the text "text"'
-    'body': 'wait "$1" seconds for the for the page to contain the text "$2"'
+    'body': 'wait "$1" seconds seconds for the page to contain the text "$2"'
   'wait61':
       'prefix': 'wait "time" seconds for the page to contain the text alias "text"'
-      'body': 'wait "$1" seconds for the for the page to contain the text alias "$2"'
+      'body': 'wait "$1" seconds seconds for the page to contain the text alias "$2"'
   'wait62':
     'prefix': 'wait "time" seconds for thepage to contain the regex "text"'
-    'body': 'wait "$1" seconds for the for the page to contain the regex "$2"'
+    'body': 'wait "$1" seconds seconds for the page to contain the regex "$2"'
   'wait63':
       'prefix': 'wait "time" seconds for the page to contain the regex alias "text"'
-      'body': 'wait "$1" seconds for the for the page to contain the regex alias "$2"'
+      'body': 'wait "$1" seconds seconds for the page to contain the regex alias "$2"'
