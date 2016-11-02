@@ -197,12 +197,12 @@
     'prefix': 'verify that the page contains the regex alias "text"'
     'body': 'verify that the page contains the regex alias "$1"'
 
-    'verify74':
-      'prefix': 'verify that the page does not contain the text "text"'
-      'body': 'verify that the page does not contain the text "$1"'
-    'verify75':
-      'prefix': 'verify that the page does not contain the text alias "text"'
-      'body': 'verify that the page does not contain the text alias "$1"'
+  'verify74':
+    'prefix': 'verify that the page does not contain the text "text"'
+    'body': 'verify that the page does not contain the text "$1"'
+  'verify75':
+    'prefix': 'verify that the page does not contain the text alias "text"'
+    'body': 'verify that the page does not contain the text alias "$1"'
 
     'verify76':
         'prefix': 'verify that the page does not contain the regex "text"'
@@ -269,7 +269,7 @@
     'verify117':
         'prefix': 'verify the element found by "identifier" is not clickable within "time" seconds ignoring timeouts'
         'body': 'verify the element found by "$1" is not clickable within "$2" seconds ignoring timeouts'
-        
+
     'verify130':
         'prefix': 'verify the element with the ID of "identifier" is displayed'
         'body': 'verify the element the ID of "$1" is displayed'
@@ -323,8 +323,8 @@
         'body': 'verify the element the ID of "$1" is not clickable within "$2" seconds'
     'verify147':
         'prefix': 'verify the element the ID of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the ID of "$1" is not clickable within "$2" seconds ignoring timeouts'  
-              
+        'body': 'verify the element the ID of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify160':
         'prefix': 'verify the element with the css selector of "identifier" is displayed'
         'body': 'verify the element the css selector of "$1" is displayed'
@@ -378,8 +378,8 @@
         'body': 'verify the element the css selector of "$1" is not clickable within "$2" seconds'
     'verify177':
         'prefix': 'verify the element the css selector of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the css selector of "$1" is not clickable within "$2" seconds ignoring timeouts'     
-                  
+        'body': 'verify the element the css selector of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify190':
         'prefix': 'verify the element with the class of "identifier" is displayed'
         'body': 'verify the element the class of "$1" is displayed'
@@ -433,8 +433,8 @@
         'body': 'verify the element the class of "$1" is not clickable within "$2" seconds'
     'verify207':
         'prefix': 'verify the element the class of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the class of "$1" is not clickable within "$2" seconds ignoring timeouts'     
-                      
+        'body': 'verify the element the class of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify220':
         'prefix': 'verify the element with the xpath of "identifier" is displayed'
         'body': 'verify the element the xpath of "$1" is displayed'
@@ -488,8 +488,8 @@
         'body': 'verify the element the xpath of "$1" is not clickable within "$2" seconds'
     'verify237':
         'prefix': 'verify the element the xpath of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the xpath of "$1" is not clickable within "$2" seconds ignoring timeouts'   
-                            
+        'body': 'verify the element the xpath of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify250':
         'prefix': 'verify the element with the name of "identifier" is displayed'
         'body': 'verify the element the name of "$1" is displayed'
@@ -543,7 +543,7 @@
         'body': 'verify the element the name of "$1" is not clickable within "$2" seconds'
     'verify267':
         'prefix': 'verify the element the name of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the name of "$1" is not clickable within "$2" seconds ignoring timeouts'                                 
+        'body': 'verify the element the name of "$1" is not clickable within "$2" seconds ignoring timeouts'
 
     'verify300':
         'prefix': 'verify the element found by alias "identifier" is displayed'
@@ -599,7 +599,7 @@
     'verify317':
         'prefix': 'verify the element found by alias "identifier" is not clickable within "time" seconds ignoring timeouts'
         'body': 'verify the element found by alias "$1" is not clickable within "$2" seconds ignoring timeouts'
-        
+
     'verify330':
         'prefix': 'verify the element with the ID alias of "identifier" is displayed'
         'body': 'verify the element the ID alias of "$1" is displayed'
@@ -653,8 +653,8 @@
         'body': 'verify the element the ID alias of "$1" is not clickable within "$2" seconds'
     'verify347':
         'prefix': 'verify the element the ID alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the ID alias of "$1" is not clickable within "$2" seconds ignoring timeouts'  
-              
+        'body': 'verify the element the ID alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify360':
         'prefix': 'verify the element with the css selector alias of "identifier" is displayed'
         'body': 'verify the element the css selector alias of "$1" is displayed'
@@ -708,8 +708,8 @@
         'body': 'verify the element the css selector alias of "$1" is not clickable within "$2" seconds'
     'verify377':
         'prefix': 'verify the element the css selector alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the css selector alias of "$1" is not clickable within "$2" seconds ignoring timeouts'     
-                  
+        'body': 'verify the element the css selector alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify390':
         'prefix': 'verify the element with the class alias of "identifier" is displayed'
         'body': 'verify the element the class alias of "$1" is displayed'
@@ -763,8 +763,8 @@
         'body': 'verify the element the class alias of "$1" is not clickable within "$2" seconds'
     'verify407':
         'prefix': 'verify the element the class alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the class alias of "$1" is not clickable within "$2" seconds ignoring timeouts'     
-                      
+        'body': 'verify the element the class alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify420':
         'prefix': 'verify the element with the xpath alias of "identifier" is displayed'
         'body': 'verify the element the xpath alias of "$1" is displayed'
@@ -818,8 +818,8 @@
         'body': 'verify the element the xpath alias of "$1" is not clickable within "$2" seconds'
     'verify437':
         'prefix': 'verify the element the xpath alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the xpath alias of "$1" is not clickable within "$2" seconds ignoring timeouts'   
-                            
+        'body': 'verify the element the xpath alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
+
     'verify450':
         'prefix': 'verify the element with the name alias of "identifier" is displayed'
         'body': 'verify the element the name alias of "$1" is displayed'
@@ -873,7 +873,7 @@
         'body': 'verify the element the name alias of "$1" is not clickable within "$2" seconds'
     'verify467':
         'prefix': 'verify the element the name alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
-        'body': 'verify the element the name alias of "$1" is not clickable within "$2" seconds ignoring timeouts' 
+        'body': 'verify the element the name alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
 
      'verify400':
          'prefix': 'verify a link with the text content of "identifier" is present'
