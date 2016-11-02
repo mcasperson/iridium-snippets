@@ -1,7 +1,7 @@
 {
   "name": "iridium-snippets",
   "main": "./lib/iridium-snippets",
-  "version": "0.1.75",
+  "version": "0.1.76",
   "description": "Snippets for use with the Iridium testing application - https://github.com/AutoGeneral/IridiumApplicationTesting",
   "keywords": [],
   "activationCommands": {
