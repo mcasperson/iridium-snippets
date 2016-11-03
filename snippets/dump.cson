@@ -12,3 +12,6 @@
   'dump4':
     'prefix': 'dump the HAR file to "filename"'
     'body': 'dump the HAR file to "$1"'
+  'dump5':
+     'prefix': 'dump the value of the alias "alias" to the console'
+     'body': 'dump the value of the alias "$1" to the console'
