@@ -875,21 +875,21 @@
         'prefix': 'verify the element the name alias of "identifier" is not clickable within "time" seconds ignoring timeouts'
         'body': 'verify the element the name alias of "$1" is not clickable within "$2" seconds ignoring timeouts'
 
-   'verify400':
+  'verify400':
          'prefix': 'verify a link with the text content of "identifier" is present'
          'body': 'verify a link with the text content of "$1" is present'
-   'verify401':
+  'verify401':
          'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
-   'verify402':
+  'verify402':
          'prefix': 'verify a link with the text content of "identifier" is present within "time" seconds ignoring timeouts'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
-   'verify403':
+  'verify403':
          'prefix': 'verify a link with the text content of "identifier" is not present'
          'body': 'verify a link with the text content of "$1" is present'
-   'verify404':
+  'verify404':
          'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds'
-   'verify405':
+  'verify405':
          'prefix': 'verify a link with the text content of "identifier" is not present within "time" seconds ignoring timeouts'
          'body': 'verify a link with the text content of "$1" is present within "$2" seconds ignoring timeouts'
