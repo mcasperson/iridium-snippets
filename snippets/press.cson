@@ -24,3 +24,12 @@
   'press8':
     'prefix': 'press the enter key on the active element'
     'body': 'press the enter key on the active element'
+  'press9':
+    'prefix': 'press the up arrow key on the active element'
+    'body': 'press the up arrow key on the active element'
+  'press10':
+    'prefix': 'press the left arrow key on the active element'
+    'body': 'press the left arrow key on the active element'
+  'press11':
+    'prefix': 'press the right arrow key on the active element'
+    'body': 'press the right arrow key on the active element'
