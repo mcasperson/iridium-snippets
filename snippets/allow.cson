@@ -1,7 +1,7 @@
 '.source.feature':
-  'allow1':
-    'prefix': 'enable the whitelist with responding with "code" for unmatched requests'
-    'body': 'enable the whitelist with responding with "$1" for unmatched requests'
+  'scroll1':
+    'prefix': 'scroll to the top of the page'
+    'body': 'scroll to the top of the page'
   'allow2':
-    'prefix': 'allow access to the URL regex "regex"'
-    'body': 'allow access to the URL regex "$1"'
+    'prefix': 'scroll to the bottom of the page'
+    'body': 'scroll to the bottom of the page'
