@@ -26,3 +26,6 @@
    'modify8':
      'prefix': 'copy the alias "alias" to the alias "alias"'
      'body': 'copy the alias "$1" to the alias "$2"'
+   'modify9':
+     'prefix': 'modify the element found by "identifier" by setting the attribute "attribute-name" to "new attribute value"'
+     'body': 'modify the element found by "$1" by setting the attribute "$2" to "$3"'     
