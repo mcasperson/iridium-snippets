@@ -1,0 +1,8 @@
+'.source.feature':
+
+  'take0':
+    'prefix': 'take a screenshot'
+    'body': 'take a screenshot'
+  'take1':
+    'prefix': 'take a screenshot called "filename"'
+    'body': 'take a screenshot called "$1"'    
