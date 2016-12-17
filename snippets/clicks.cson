@@ -167,3 +167,15 @@
   'clicks67':
     'prefix': 'click the hidden link with the text content of alias \"alias name\" if it exists'
     'body': 'click the hidden link with the text content of alias \"$1\" if it exists'
+  'clicks68':
+    'prefix': 'click "OK" on the alert if it exists'
+    'body': 'click "OK" on the alert if it exists'
+  'clicks69':
+    'prefix': 'click "Cancel" on the alert if it exists'
+    'body': 'click "Cancel" on the alert if it exists'
+  'clicks70':
+    'prefix': 'click "OK" on the alert'
+    'body': 'click "OK" on the alert'
+  'clicks71':
+    'prefix': 'click "Cancel" on the alert'
+    'body': 'click "Cancel" on the alert'

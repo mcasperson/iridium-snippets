@@ -102,3 +102,10 @@
   'wait63':
       'prefix': 'wait "time" seconds for the page to contain the regex alias "text"'
       'body': 'wait "$1" seconds for the page to contain the regex alias "$2"'
+
+  'wait70':
+      'prefix': 'wait "time" seconds for an alert to be displayed'
+      'body': 'wait "$1" seconds for an alert to be displayed'
+  'wait71':
+      'prefix': 'wait "time" seconds for an alert to be displayed, ignoring timeouts'
+      'body': 'wait "$1" seconds for an alert to be displayed, ignoring timeouts'
