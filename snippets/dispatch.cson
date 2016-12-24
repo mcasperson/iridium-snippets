@@ -186,3 +186,25 @@
   'dispatchcustom26':
     'prefix': 'dispatch a "focus" event on the element with the css selector of alias "identifier"'
     'body': 'dispatch a "focus" event on the element with the css selector of alias "$1"'
+
+  'dispatchcustom30':
+    'prefix': '"mouseup" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"mouseup" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom31':
+    'prefix': '"mousedown" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"mousedown" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom32':
+    'prefix': '"click" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"click" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom33':
+    'prefix': '"mouseover" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"mouseover" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom34':
+    'prefix': '"mouseout" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"mouseout" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom35':
+    'prefix': '"mousemove" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"mousemove" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
+  'dispatchcustom36':
+    'prefix': '"dblclick" "##%" horizontally and "##%" vertically within the area of the element found by "identifier"'
+    'body': '"dblclick" "$1%" horizontally and "$2%" vertically within the area of the element found by "$3"'
