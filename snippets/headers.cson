@@ -1,0 +1,7 @@
+'.source.feature':
+  'header1':
+    'prefix': 'set header "name" with value "value"'
+    'body': 'set header "$1" with value "$2"'
+  'header2':
+    'prefix': 'remove header "name"'
+    'body': 'remove header "$1"'
