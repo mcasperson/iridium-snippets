@@ -29,3 +29,9 @@
    'modify9':
      'prefix': 'modify the element found by "identifier" by setting the attribute "attribute-name" to "new attribute value"'
      'body': 'modify the element found by "$1" by setting the attribute "$2" to "$3"'     
+   'modify10':
+     'prefix': 'modify the alias "alias" by converting it to upper case'
+     'body': 'modify the alias "alias" by converting it to upper case'
+  'modify11':
+     'prefix': 'modify the alias "alias" by converting it to lower case'
+     'body': 'modify the alias "alias" by converting it to lower case'
