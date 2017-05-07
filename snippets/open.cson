@@ -14,3 +14,15 @@
   'open5':
     'prefix': 'open all links in new tabs and then close the tabs'
     'body': 'open all links in new tabs and then close the tabs'
+  'open6':
+    'prefix': 'open the page "url" ignoring timeouts'
+    'body': 'open the page "$1" ignoring timeouts'
+  'open7':
+    'prefix': 'open the page alias "url" ignoring timeouts'
+    'body': 'open the page alias "$1" ignoring timeouts'
+  'open8':
+    'prefix': 'open the application ignoring timeouts'
+    'body': 'open the application ignoring timeouts'
+  'open9':
+    'prefix': 'open the application "name" ignoring timeouts'
+    'body': 'open the application "$1" ignoring timeouts'
