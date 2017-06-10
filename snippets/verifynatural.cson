@@ -1,0 +1,135 @@
+
+  'verifynatural2':
+    'prefix': 'verify that the "identifier" thing should have a class of "class"'
+    'body': 'verify that the "$1" thing should have a class of "$2"'
+  'verifynatural3':
+    'prefix': 'verify that the alias "identifier" thing should have a class of "class"'
+    'body': 'verify that the alias "$1" thing should have a class of "$2"'
+  'verifynatural4':
+    'prefix': 'verify that the "identifier" thing should have a class of alias "class"'
+    'body': 'verify that the "$1" thing should have a class of alias "$2"'
+  'verifynatural5':
+    'prefix': 'verify that the alias "identifier" thing should have a class of alias "class"'
+    'body': 'verify that the alias "$1" thing should have a class of alias "$2"'
+  'verifynatural6':
+    'prefix': 'verify that the "identifier" thing should have a class of "class" if it exists'
+    'body': 'verify that the "$1" thing should have a class of "$2" if it exists'
+  'verifynatural7':
+    'prefix': 'verify that the alias "identifier" thing should have a class of "class" if it exists'
+    'body': 'verify that the alias "$1" thing should have a class of "$2" if it exists'
+  'verifynatural8':
+    'prefix': 'verify that the "identifier" thing should have a class of alias "class" if it exists'
+    'body': 'verify that the "$1" thing should have a class of alias "$2" if it exists'
+  'verifynatural9':
+    'prefix': 'verify that the alias "identifier" thing should have a class of alias "class" if it exists'
+    'body': 'verify that the alias "$1" thing should have a class of alias "$2" if it exists'
+
+  'verifynatural100':
+        'prefix': 'verify the "identifier" thing is displayed'
+        'body': 'verify the "$1" thing is displayed'
+  'verifynatural101':
+        'prefix': 'verify the "identifier" thing is displayed within "time" seconds'
+        'body': 'verify the "$1" thing is displayed within "$2" seconds'
+  'verifynatural102':
+        'prefix': 'verify the "identifier" thing is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is displayed within "$2" seconds ignoring timeouts'
+  'verifynatural103':
+        'prefix': 'verify the "identifier" thing is present'
+        'body': 'verify the "$1" thing is present'
+  'verifynatural104':
+        'prefix': 'verify the "identifier" thing is present within "time" seconds'
+        'body': 'verify the "$1" thing is present within "$2" seconds'
+  'verifynatural105':
+        'prefix': 'verify the "identifier" thing is present within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is present within "$2" seconds ignoring timeouts'
+  'verifynatural106':
+        'prefix': 'verify the "identifier" thing is clickable'
+        'body': 'verify the "$1" thing is clickable'
+  'verifynatural107':
+        'prefix': 'verify the "identifier" thing is clickable within "time" seconds'
+        'body': 'verify the "$1" thing is clickable within "$2" seconds'
+  'verifynatural108':
+        'prefix': 'verify the "identifier" thing is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is clickable within "$2" seconds ignoring timeouts'
+  'verifynatural109':
+        'prefix': 'verify the "identifier" thing is not displayed'
+        'body': 'verify the "$1" thing is not displayed'
+  'verifynatural110':
+        'prefix': 'verify the "identifier" thing is not displayed within "time" seconds'
+        'body': 'verify the "$1" thing is not displayed within "$2" seconds'
+  'verifynatural111':
+        'prefix': 'verify the "identifier" thing is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is not displayed within "$2" seconds ignoring timeouts'
+  'verifynatural112':
+        'prefix': 'verify the "identifier" thing is not present'
+        'body': 'verify the "$1" thing is not present'
+  'verifynatural113':
+        'prefix': 'verify the "identifier" thing is not present within "time" seconds'
+        'body': 'verify the "$1" thing is not present within "$2" seconds'
+  'verifynatural114':
+        'prefix': 'verify the "identifier" thing is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is not present within "$2" seconds ignoring timeouts'
+  'verifynatural115':
+        'prefix': 'verify the "identifier" thing is not clickable'
+        'body': 'verify the "$1" thing is not clickable'
+  'verifynatural116':
+        'prefix': 'verify the "identifier" thing is not clickable within "time" seconds'
+        'body': 'verify the "$1" thing is not clickable within "$2" seconds'
+  'verifynatural117':
+        'prefix': 'verify the "identifier" thing is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the "$1" thing is not clickable within "$2" seconds ignoring timeouts'
+
+  'verifynatural300':
+        'prefix': 'verify the alias "identifier" thing is displayed'
+        'body': 'verify the alias "$1" thing is displayed'
+  'verifynatural301':
+        'prefix': 'verify the alias "identifier" thing is displayed within "time" seconds'
+        'body': 'verify the alias "$1" thing is displayed within "$2" seconds'
+  'verifynatural302':
+        'prefix': 'verify the alias "identifier" thing is displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is displayed within "$2" seconds ignoring timeouts'
+  'verifynatural303':
+        'prefix': 'verify the alias "identifier" thing is present'
+        'body': 'verify the alias "$1" thing is present'
+  'verifynatural304':
+        'prefix': 'verify the alias "identifier" thing is present within "time" seconds'
+        'body': 'verify the alias "$1" thing is present within "$2" seconds'
+  'verifynatural305':
+        'prefix': 'verify the alias "identifier" thing is present within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is present within "$2" seconds ignoring timeouts'
+  'verifynatural306':
+        'prefix': 'verify the alias "identifier" thing is clickable'
+        'body': 'verify the alias "$1" thing is clickable'
+  'verifynatural307':
+        'prefix': 'verify the alias "identifier" thing is clickable within "time" seconds'
+        'body': 'verify the alias "$1" thing is clickable within "$2" seconds'
+  'verifynatural308':
+        'prefix': 'verify the alias "identifier" thing is clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is clickable within "$2" seconds ignoring timeouts'
+  'verifynatural309':
+        'prefix': 'verify the alias "identifier" thing is not displayed'
+        'body': 'verify the alias "$1" thing is not displayed'
+  'verifynatural310':
+        'prefix': 'verify the alias "identifier" thing is not displayed within "time" seconds'
+        'body': 'verify the alias "$1" thing is not displayed within "$2" seconds'
+  'verifynatural311':
+        'prefix': 'verify the alias "identifier" thing is not displayed within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is not displayed within "$2" seconds ignoring timeouts'
+  'verifynatural312':
+        'prefix': 'verify the alias "identifier" thing is not present'
+        'body': 'verify the alias "$1" thing is not present'
+  'verifynatural313':
+        'prefix': 'verify the alias "identifier" thing is not present within "time" seconds'
+        'body': 'verify the alias "$1" thing is not present within "$2" seconds'
+  'verifynatural314':
+        'prefix': 'verify the alias "identifier" thing is not present within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is not present within "$2" seconds ignoring timeouts'
+  'verifynatural315':
+        'prefix': 'verify the alias "identifier" thing is not clickable'
+        'body': 'verify the alias "$1" thing is not clickable'
+  'verifynatural316':
+        'prefix': 'verify the alias "identifier" thing is not clickable within "time" seconds'
+        'body': 'verify the alias "$1" thing is not clickable within "$2" seconds'
+  'verifynatural317':
+        'prefix': 'verify the alias "identifier" thing is not clickable within "time" seconds ignoring timeouts'
+        'body': 'verify the alias "$1" thing is not clickable within "$2" seconds ignoring timeouts'

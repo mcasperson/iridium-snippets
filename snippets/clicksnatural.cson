@@ -1,0 +1,16 @@
+'.source.feature':
+  'clicksnatural1':
+    'prefix': 'click the \"identifier\" thing'
+    'body': 'click the \"$1\" $2'
+  'clicksnatural2':
+    'prefix': 'click the element alias \"identifier\" thing'
+    'body': 'click the element alias \"$1\" $2'
+  'clicksnatural3':
+    'prefix': 'click the \"identifier\" thing if it exists'
+    'body': 'click the \"$1\" $2 if it exists'
+  'clicksnatural33':
+    'prefix': 'click the hidden \"identifier\" thing if it exists'
+    'body': 'click the hidden \"$1\" $2 if it exists'
+  'clicksnatural31':
+    'prefix': 'click the hidden \"identifier\" thing'
+    'body': 'click the hidden \"$1\" $2'

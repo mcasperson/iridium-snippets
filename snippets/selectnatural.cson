@@ -1,0 +1,45 @@
+'.source.feature':
+  'selectnatural1':
+    'prefix': 'select option number "option number" from the "identifier" thing'
+    'body': 'select option number "$1" from the "$2" $3'
+  'selectnatural2':
+    'prefix': 'select option number "option number" from the alias "identifier" thing'
+    'body': 'select option number "$1" from the alias "$2" $3'
+  'selectnatural3':
+    'prefix': 'select option number "option number" from the "identifier" thing if it exists'
+    'body': 'select option number "$1" from the "$2" $3 if it exists'
+  'selectnatural4':
+    'prefix': 'select option number "option number" from the alias "identifier" thing if it exists'
+    'body': 'select option number "$1" from the alias "$2" $3 if it exists'
+  'selectnatural5':
+    'prefix': 'select alias option number "option number" from the "identifier" thing'
+    'body': 'select alias option number "$1" from the "$2" $3'
+  'selectnatural6':
+    'prefix': 'select alias option number "option number" from the alias "identifier" thing'
+    'body': 'select alias option number "$1" from the alias "$2" $3'
+  'selectnatural7':
+    'prefix': 'select alias option number "option number" from the "identifier" thing if it exists'
+    'body': 'select alias option number "$1" from the "$2" $3 if it exists'
+ 
+  'selectnatural101':
+    'prefix': 'select "option text" from the "identifier" thing'
+    'body': 'select "$1" from the "$2" $3'
+  'selectnatural102':
+    'prefix': 'select "option text" from the alias "identifier" thing'
+    'body': 'select "$1" from the alias "$2" $3'
+  'selectnatural103':
+    'prefix': 'select "option text" from the "identifier" thing if it exists'
+    'body': 'select "$1" from the "$2" $3 if it exists'
+  'selectnatural104':
+    'prefix': 'select "option text" from the alias "identifier" thing if it exists'
+    'body': 'select "$1" from the alias "$2" $3 if it exists'
+  'selectnatural105':
+    'prefix': 'select alias "option text" from the "identifier" thing'
+    'body': 'select alias "$1" from the "$2" $3'
+  'selectnatural106':
+    'prefix': 'select alias "option text" from the alias "identifier" thing'
+    'body': 'select alias "$1" from the alias "$2" $3'
+  'selectnatural107':
+    'prefix': 'select alias "option text" from the "identifier" thing if it exists'
+    'body': 'select alias "$1" from the "$2" $3 if it exists'
+  

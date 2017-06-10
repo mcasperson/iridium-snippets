@@ -1,0 +1,27 @@
+'.source.feature':
+  'javascripteventsnatural1':
+    'prefix': 'mouse<something> on the hidden "identifier" thing'
+    'body': '"$1" on the hidden "$2" thing'
+  'javascripteventsnatural2':
+    'prefix': 'mouse<something> on the hidden "identifier" thing if it exists'
+    'body': '"$1" on the hidden "$2" thing if it exists'
+  'javascripteventsnatural3':
+    'prefix': 'mouse<something> on the hidden alias "alias name" thing'
+    'body': '"$1" on the hidden alias "$2" thing'
+  'javascripteventsnatural4':
+    'prefix': 'mouse<something> on the hidden alias "alias name" thing if it exists'
+    'body': '"$1" on the hidden alias "$2" thing if it exists'
+  
+  'javascriptkeyeventsnatural1':
+    'prefix': 'key<something> on the hidden "identifier" thing'
+    'body': '"$1" on the hidden "$2" thing'
+  'javascriptkeyeventsnatural2':
+    'prefix': 'key<something> on the hidden "identifier" thing if it exists'
+    'body': '"$1" on the hidden "$2" thing if it exists'
+  'javascriptkeyeventsnatural3':
+    'prefix': 'key<something> on the hidden alias "alias name" thing'
+    'body': '"$1" on the hidden alias "$2" thing'
+  'javascriptkeyeventsnatural4':
+    'prefix': 'key<something> on the hidden alias "alias name" thing if it exists'
+    'body': '"$1" on the hidden alias "$2" thing if it exists'
+  

@@ -1,0 +1,4 @@
+'.source.feature':
+  'clearnatural1':
+    'prefix': 'clear the "identifier" thing'
+    'body': 'clear the "$1" thing'

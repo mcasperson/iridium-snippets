@@ -1,0 +1,51 @@
+'.source.feature':
+
+  'populatenatural1':
+    'prefix': 'populate the "identifier" thing with "text" and submit'
+    'body': 'populate the "$1" $2 with "$3" and submit'
+  'populatenatural2':
+    'prefix': 'populate the "identifier" thing with "text" and submit if it exists'
+    'body': 'populate the "$1" $2 with "$3" and submit if it exists'
+  'populatenatural3':
+    'prefix': 'populate the alias "identifier" thing with "text" and submit'
+    'body': 'populate the alias "$1" $2 with "$3" and submit'
+  'populatenatural4':
+    'prefix': 'populate the alias "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the alias "$1" $2 with alias "$3" and submit if it exists'
+  'populatenatural5':
+    'prefix': 'populate the "identifier" thing with alias "text" and submit'
+    'body': 'populate the "$1" $2 with alias "$3" and submit'
+  'populatenatural6':
+    'prefix': 'populate the "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the "$1" $2 with alias "$3" and submit if it exists'
+  'populatenatural7':
+    'prefix': 'populate the alias "identifier" thing with alias "text" and submit'
+    'body': 'populate the alias "$1" $2 with alias "$3" and submit'
+  'populatenatural8':
+    'prefix': 'populate the alias "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the alias "$1" $2 with alias "$3" and submit if it exists'
+
+  'populatenatural51':
+    'prefix': 'populate the hidden "identifier" thing with "text" and submit'
+    'body': 'populate the hidden "$1" $2 with "$3" and submit'
+  'populatenatural52':
+    'prefix': 'populate the hidden "identifier" thing with "text" and submit if it exists'
+    'body': 'populate the hidden "$1" $2 with "$3" and submit if it exists'
+  'populatenatural53':
+    'prefix': 'populate the hidden alias "identifier" thing with "text" and submit'
+    'body': 'populate the hidden alias "$1" $2 with "$3" and submit'
+  'populatenatural54':
+    'prefix': 'populate the hidden alias "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the hidden alias "$1" $2 with alias "$3" and submit if it exists'
+  'populatenatural55':
+    'prefix': 'populate the hidden "identifier" thing with alias "text" and submit'
+    'body': 'populate the hidden "$1" $2 with alias "$3" and submit'
+  'populatenatural56':
+    'prefix': 'populate the hidden "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the hidden "$1" $2 with alias "$3" and submit if it exists'
+  'populatenatural57':
+    'prefix': 'populate the hidden alias "identifier" thing with alias "text" and submit'
+    'body': 'populate the hidden alias "$1" $2 with alias "$3" and submit'
+  'populatenatural58':
+    'prefix': 'populate the hidden alias "identifier" thing with alias "text" and submit if it exists'
+    'body': 'populate the hidden alias "$1" $2 with alias "$3" and submit if it exists'

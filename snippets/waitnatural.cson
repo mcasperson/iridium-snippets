@@ -1,0 +1,79 @@
+'.source.feature':
+
+  'waitnatural2':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be present'
+    'body': 'wait "$1" seconds for the "$2" thing to be present'
+  'waitnatural3':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to be present ignoring timeouts'
+  'waitnatural3':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be present'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be present'
+  'waitnatural4':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be present ignoring timeouts'
+
+  'waitnatural10':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be displayed'
+    'body': 'wait "$1" seconds for the "$2" thing to be displayed'
+  'waitnatural11':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to be displayed ignoring timeouts'
+  'waitnatural12':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be displayed'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be displayed'
+  'waitnatural13':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be displayed ignoring timeouts'
+
+  'waitnatural20':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be present'
+    'body': 'wait "$1" seconds for the "$2" thing to be present'
+  'waitnatural21':
+    'prefix': 'wait "time" seconds for the "identifier" thing to be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to be present ignoring timeouts'
+  'waitnatural22':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be present'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be present'
+  'waitnatural23':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to be present ignoring timeouts'
+
+  'waitnatural30':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be present'
+    'body': 'wait "$1" seconds for the "$2" thing to not be present'
+  'waitnatural31':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to not be present ignoring timeouts'
+  'waitnatural32':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be present'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be present'
+  'waitnatural33':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be present ignoring timeouts'
+
+  'waitnatural40':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be displayed'
+    'body': 'wait "$1" seconds for the "$2" thing to not be displayed'
+  'waitnatural41':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to not be displayed ignoring timeouts'
+  'waitnatural42':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be displayed'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be displayed'
+  'waitnatural43':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be displayed ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be displayed ignoring timeouts'
+
+  'waitnatural50':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be present'
+    'body': 'wait "$1" seconds for the "$2" thing to not be present'
+  'waitnatural51':
+    'prefix': 'wait "time" seconds for the "identifier" thing to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the "$2" thing to not be present ignoring timeouts'
+  'waitnatural52':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be present'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be present'
+  'waitnatural53':
+    'prefix': 'wait "time" seconds for the alias "identifier" thing to not be present ignoring timeouts'
+    'body': 'wait "$1" seconds for the alias "$2" thing to not be present ignoring timeouts'

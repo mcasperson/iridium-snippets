@@ -1,0 +1,4 @@
+'.source.feature':
+   'modifynatural9':
+     'prefix': 'modify the "identifier" thing by setting the attribute "attribute-name" to "new attribute value"'
+     'body': 'modify the "$1" thing by setting the attribute "$2" to "$3"'     

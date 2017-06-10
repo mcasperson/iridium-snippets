@@ -1,0 +1,13 @@
+'.source.feature':
+  'focusnatural1':
+    'prefix': 'focus on the "identifier" thing'
+    'body': 'focus on the "$1" thing'
+  'focusnatural2':
+    'prefix': 'focus on the "identifier" thing if it exists'
+    'body': 'focus on the "$1" $2 if it exists'
+  'focusnatural3':
+    'prefix': 'focus on the alias "identifier" thing if it exists'
+    'body': 'focus on the alias "$1" $2 if it exists'
+  'focusnatural4':
+    'prefix': 'focus on the alias "identifier" thing'
+    'body': 'focus on the alias "$1" $2'

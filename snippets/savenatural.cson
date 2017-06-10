@@ -1,0 +1,67 @@
+'.source.feature':
+
+  'savenatural101':
+    'prefix': 'save the text content of the "identifier" thing to the alias "alias"'
+    'body': 'save the text content of the "$1" thing to the alias "$2"'
+  'savenatural102':
+    'prefix': 'save the text content of the alias "alias identifier" thing to the alias "alias"'
+    'body': 'save the text content of the alias "$1" thing to the alias "$2"'
+  'savenatural103':
+    'prefix': 'save the text content of the "identifier" thing to the alias "$2" if it exists'
+    'body': 'save the text content of the "$1" thing to the alias "$2" if it exists'
+  'savenatural104':
+    'prefix': 'save the text content of the alias "alias identifier" thing to the alias "alias" if it exists'
+    'body': 'save the text content of the alias "$1" thing to the alias "$2" if it exists'
+  
+  'savenatural201':
+    'prefix': 'save the text content the hidden "identifier" thing to the alias "alias"'
+    'body': 'save the text content the hidden "$1" thing to the alias "$2"'
+  'savenatural202':
+    'prefix': 'save the text content the hidden alias "alias identifier" thing to the alias "alias"'
+    'body': 'save the text content the hidden alias "$1" thing to the alias "$2"'
+  'savenatural203':
+    'prefix': 'save the text content the hidden "identifier" thing to the alias "alias" if it exists'
+    'body': 'save the text content the hidden "$1" thing to the alias "$2" if it exists'
+  'savenatural204':
+    'prefix': 'save the text content the hidden alias "alias identifier" thing to the alias "alias" if it exists'
+    'body': 'save the text content the hidden alias "$1" thing to the alias "$2" if it exists'
+ 
+  'savenatural301':
+    'prefix': 'save the attribute content of "attribute" from the "identifier" thing to the alias "alias"'
+    'body': 'save the attribute content of "$1" from the "$2" thing to the alias "$3"'
+  'savenatural302':
+    'prefix': 'save the attribute content of "attribute" from the alias "alias identifier" thing to the alias "alias"'
+    'body': 'save the attribute content of "$1" from the alias "$2" thing to the alias "$3"'
+  'savenatural303':
+    'prefix': 'save the attribute content of "attribute" from the "identifier" thing to the alias "alias" if it exists'
+    'body': 'save the attribute content of "$1" from the "$2" thing to the alias "$3" if it exists'
+  'savenatural304':
+    'prefix': 'save the attribute content of "attribute" from the alias "alias identifier" thing to the alias "alias" if it exists'
+    'body': 'save the attribute content of "$1" from the alias "$2" thing to the alias "$3" if it exists'
+  
+  'savenatural1':
+    'prefix': 'save the value of the element found by identifier" to the alias "alias"'
+    'body': 'save the value of the "$1" thing to the alias "$2"'
+  'savenatural2':
+    'prefix': 'save the value of the alias "alias identifier" thing to the alias "alias"'
+    'body': 'save the value of the alias "$1" thing to the alias "$2"'
+  'savenatural3':
+    'prefix': 'save the value of the "identifier" thing to the alias "alias" if it exists'
+    'body': 'save the value of the "$1" thing to the alias "$2" if it exists'
+  'savenatural4':
+    'prefix': 'save the value of the alias "alias identifier" thing to the alias "alias" if it exists'
+    'body': 'save the value of the alias "$1" thing to the alias "$2" if it exists'
+  
+  'savenatural501':
+    'prefix': 'save the value of the "identifier" thing to the alias "alias"'
+    'body': 'save the value of the "$1" thing to the alias "$2"'
+  'savenatural502':
+    'prefix': 'save the value of the alias "alias identifier" thing to the alias "alias"'
+    'body': 'save the value of the alias "$1" thing to the alias "$2"'
+  'savenatural503':
+    'prefix': 'save the value of the "identifier" thing to the alias "alias" if it exists'
+    'body': 'save the value of the "$1" thing to the alias "$2" if it exists'
+  'savenatural504':
+    'prefix': 'save the value of the alias "alias identifier" thing to the alias "alias" if it exists'
+    'body': 'save the value of the alias "$1" thing to the alias "$2" if it exists'
+  
