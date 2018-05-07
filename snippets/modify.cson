@@ -1,11 +1,11 @@
 '.source.feature':
-  'modify1':
+  'modify0':
     'prefix': 'modify the alias "alias" by removing all characters that match the regex "regex"'
     'body': 'modify the alias "$1" by removing all characters that match the regex "$2"'
-  'modify2':
+  'modify1':
     'prefix': 'modify the alias "alias" by replacing all characters that match the regex "regex" with "replacement"'
     'body': 'modify the alias "$1" by replacing all characters that match the regex "$2" with "replacement"'
-  'modify3':
+  'modify2':
     'prefix': 'modify the alias "alias" by replacing the first characters that match the regex "regex" with "replacement"'
     'body': 'modify the alias "$1" by replacing the first characters that match the regex "$2" with "$3"'
    'modify3':
