@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/iridium-snippets.iml" filepath="$PROJECT_DIR$/.idea/iridium-snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iridium-snippets.iml" filepath="$PROJECT_DIR$/iridium-snippets.iml" />
     </modules>
   </component>
 </project>

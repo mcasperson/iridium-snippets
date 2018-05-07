@@ -13,16 +13,16 @@
     'prefix': 'populate the "identifier" thing with alias "text"'
     'body': 'populate the "$1" thing with alias "$2"'
 
-  'populatetwonatural4':
+  'populatetwonatural24':
     'prefix': 'populate the "identifier" thing with "text" if it exists'
     'body': 'populate the "$1" thing with "$2" if it exists'
-  'populatetwonatural5':
+  'populatetwonatural25':
     'prefix': 'populate the alias "identifier" thing with "text" if it exists'
     'body': 'populate the alias "$1" thing with "$2" if it exists'
-  'populatetwonatural6':
+  'populatetwonatural26':
     'prefix': 'populate the alias "identifier" thing with alias "text" if it exists'
     'body': 'populate the alias "$1" thing with alias "$2" if it exists'
-  'populatetwonatural7':
+  'populatetwonatural27':
     'prefix': 'populate the "identifier" thing with alias "text" if it exists'
     'body': 'populate the "$1" thing with alias "$2" if it exists'
 

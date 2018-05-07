@@ -1,53 +1,53 @@
 '.source.feature':
 
-  'populatetwo1':
+  'populatetwohidden1':
     'prefix': 'populate the hidden element found by "identifier" with "text"'
     'body': 'populate the hidden element found by "$1" with "$2"'
-  'populatetwo2':
+  'populatetwohidden2':
     'prefix': 'populate the hidden element found by alias "identifier" with "text"'
     'body': 'populate the hidden element found by alias "$1" with "$2"'
-  'populatetwo3':
+  'populatetwohidden3':
     'prefix': 'populate the hidden element found by alias "identifier" with alias "text"'
     'body': 'populate the hidden element found by alias "$1" with alias "$2"'
-  'populatetwo4':
+  'populatetwohidden4':
     'prefix': 'populate the hidden element found by "identifier" with alias "text"'
     'body': 'populate the hidden element found by "$1" with alias "$2"'
 
-  'populatetwo4':
+  'populatetwohidden24':
     'prefix': 'populate the hidden element found by "identifier" with "text" if it exists'
     'body': 'populate the hidden element found by "$1" with "$2" if it exists'
-  'populatetwo5':
+  'populatetwohidden25':
     'prefix': 'populate the hidden element found by alias "identifier" with "text" if it exists'
     'body': 'populate the hidden element found by alias "$1" with "$2" if it exists'
-  'populatetwo6':
+  'populatetwohidden26':
     'prefix': 'populate the hidden element found by alias "identifier" with alias "text" if it exists'
     'body': 'populate the hidden element found by alias "$1" with alias "$2" if it exists'
-  'populatetwo7':
+  'populatetwohidden27':
     'prefix': 'populate the hidden element found by "identifier" with alias "text" if it exists'
     'body': 'populate the hidden element found by "$1" with alias "$2" if it exists'
 
-  'populatetwo8':
+  'populatetwohidden8':
     'prefix': 'populate the hidden element found by "identifier" with "text" if it is empty'
     'body': 'populate the hidden element found by "$1" with "$2" if it is empty'
-  'populatetwo9':
+  'populatetwohidden9':
     'prefix': 'populate the hidden element found by alias "identifier" with "text" if it is empty'
     'body': 'populate the hidden element found by alias "$1" with "$2" if it is empty'
-  'populatetwo10':
+  'populatetwohidden10':
     'prefix': 'populate the hidden element found by alias "identifier" with alias "text" if it is empty'
     'body': 'populate the hidden element found by alias "$1" with alias "$2" if it is empty'
-  'populatetwo11':
+  'populatetwohidden11':
     'prefix': 'populate the hidden element found by "identifier" with alias "text" if it is empty'
     'body': 'populate the hidden element found by "$1" with alias "$2" if it is empty'
 
-  'populatetwo12':
+  'populatetwohidden12':
     'prefix': 'populate the hidden element found by "identifier" with "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the hidden element found by "$1" with "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwo13':
+  'populatetwohidden13':
     'prefix': 'populate the hidden element found by alias "identifier" with "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the hidden element found by alias "$1" with "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwo14':
+  'populatetwohidden14':
     'prefix': 'populate the hidden element found by alias "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the hidden element found by alias "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwo15':
+  'populatetwohidden15':
     'prefix': 'populate the hidden element found by "identifier" with alias "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the hidden element found by "$1" with alias "$2" with a keystroke delay of "$3" milliseconds'
