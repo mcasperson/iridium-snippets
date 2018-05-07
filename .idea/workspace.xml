@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ebc7824-4b75-4b27-b447-0c52ebab1c42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/javascriptevents.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/javascriptevents.cson" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sleep.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/sleep.cson">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="take.cson" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippets/take.cson">
           <provider selected="true" editor-type-id="text-editor" />
@@ -76,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populatetworandomnatural.cson" pinned="false" current-in-tab="true">
+      <file leaf-file-name="populatetworandomnatural.cson" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="-78">
               <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascriptevents.cson" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snippets/javascriptevents.cson">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -89,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>populate40</find>
       <find>populatetwo4</find>
       <find>populatetwo14</find>
       <find>two</find>
@@ -101,6 +100,9 @@
       <find>populatethree</find>
       <find>populatetwonatural</find>
       <find>populatetworandomnatural4</find>
+      <find>populate40</find>
+      <find>javascriptevents25</find>
+      <find>javascriptevents30</find>
     </findStrings>
     <replaceStrings>
       <replace>three</replace>
@@ -130,6 +132,7 @@
         <option value="$PROJECT_DIR$/snippets/populatethreehidden.cson" />
         <option value="$PROJECT_DIR$/snippets/sleep.cson" />
         <option value="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" />
+        <option value="$PROJECT_DIR$/snippets/javascriptevents.cson" />
       </list>
     </option>
   </component>
@@ -248,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525651931866</updated>
-      <workItem from="1525651935092" duration="1091000" />
+      <workItem from="1525651935092" duration="1258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1091000" />
+    <option name="totallyTimeSpent" value="1258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -359,11 +362,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/headers.cson">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/javascriptevents.cson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1488" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/javascripteventsnatural.cson">
       <provider selected="true" editor-type-id="text-editor" />
@@ -491,8 +489,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="-78">
           <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/javascriptevents.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>

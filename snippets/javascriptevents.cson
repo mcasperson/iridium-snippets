@@ -56,19 +56,19 @@
   'javascriptevents34':
     'prefix': 'mouse<something> on the hidden element with the css selector alias of "identifier alias"'
     'body': '"$1" on the hidden element with the css selector alias of "$2"'
-  'javascriptevents30':
+  'javascriptevents40':
     'prefix': 'mouse<something> on the hidden element with the ID alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the ID alias of "$2" if it exists'
-  'javascriptevents31':
+  'javascriptevents41':
     'prefix': 'mouse<something> on the hidden element with the class alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the class alias of "$2" if it exists'
-  'javascriptevents32':
+  'javascriptevents42':
     'prefix': 'mouse<something> on the hidden element with the xpath alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the xpath alias of "$2" if it exists'
-  'javascriptevents33':
+  'javascriptevents43':
     'prefix': 'mouse<something> on the hidden element with the name alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the name alias of "$2" if it exists'
-  'javascriptevents34':
+  'javascriptevents44':
     'prefix': 'mouse<something> on the hidden element with the css selector alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the css selector alias of "$2" if it exists'
 
