@@ -129,18 +129,18 @@
   'javascriptkeyevents34':
     'prefix': 'key<something> on the hidden element with the css selector alias of "identifier alias"'
     'body': '"$1" on the hidden element with the css selector alias of "$2"'
-  'javascriptkeyevents30':
+  'javascriptkeyevents40':
     'prefix': 'key<something> on the hidden element with the ID alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the ID alias of "$2" if it exists'
-  'javascriptkeyevents31':
+  'javascriptkeyevents41':
     'prefix': 'key<something> on the hidden element with the class alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the class alias of "$2" if it exists'
-  'javascriptkeyevents32':
+  'javascriptkeyevents42':
     'prefix': 'key<something> on the hidden element with the xpath alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the xpath alias of "$2" if it exists'
-  'javascriptkeyevents33':
+  'javascriptkeyevents43':
     'prefix': 'key<something> on the hidden element with the name alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the name alias of "$2" if it exists'
-  'javascriptkeyevents34':
+  'javascriptkeyevents44':
     'prefix': 'key<something> on the hidden element with the css selector alias of "identifier alias" if it exists'
     'body': '"$1" on the hidden element with the css selector alias of "$2" if it exists'
