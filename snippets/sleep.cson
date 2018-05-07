@@ -1,4 +1,4 @@
 '.source.feature':
-  'skip1':
+  'sleep1':
     'prefix': 'sleep for "time" seconds'
     'body': 'sleep for "$1" seconds'

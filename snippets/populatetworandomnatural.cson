@@ -1,53 +1,53 @@
 '.source.feature':
 
-  'populatetwonatural1':
+  'populatetworandomnatural1':
     'prefix': 'populate the "identifier" thing with "text"'
     'body': 'populate the "$1" thing with "$2"'
-  'populatetwonatural2':
+  'populatetworandomnatural2':
     'prefix': 'populate the alias "identifier" thing with "text"'
     'body': 'populate the alias "$1" thing with "$2"'
-  'populatetwonatural3':
+  'populatetworandomnatural3':
     'prefix': 'populate the alias "identifier" thing with alias "text"'
     'body': 'populate the alias "$1" thing with alias "$2"'
-  'populatetwonatural4':
+  'populatetworandomnatural4':
     'prefix': 'populate the "identifier" thing with alias "text"'
     'body': 'populate the "$1" thing with alias "$2"'
 
-  'populatetwonatural4':
+  'populatetworandomnatural4':
     'prefix': 'populate the "identifier" thing with "text" if it exists'
     'body': 'populate the "$1" thing with "$2" if it exists'
-  'populatetwonatural5':
+  'populatetworandomnatural5':
     'prefix': 'populate the alias "identifier" thing with "text" if it exists'
     'body': 'populate the alias "$1" thing with "$2" if it exists'
-  'populatetwonatural6':
+  'populatetworandomnatural6':
     'prefix': 'populate the alias "identifier" thing with alias "text" if it exists'
     'body': 'populate the alias "$1" thing with alias "$2" if it exists'
-  'populatetwonatural7':
+  'populatetworandomnatural7':
     'prefix': 'populate the "identifier" thing with alias "text" if it exists'
     'body': 'populate the "$1" thing with alias "$2" if it exists'
 
-  'populatetwonatural8':
+  'populatetworandomnatural8':
     'prefix': 'populate the "identifier" thing with "text" if it is empty'
     'body': 'populate the "$1" thing with "$2" if it is empty'
-  'populatetwonatural9':
+  'populatetworandomnatural9':
     'prefix': 'populate the alias "identifier" thing with "text" if it is empty'
     'body': 'populate the alias "$1" thing with "$2" if it is empty'
-  'populatetwonatural10':
+  'populatetworandomnatural10':
     'prefix': 'populate the alias "identifier" thing with alias "text" if it is empty'
     'body': 'populate the alias "$1" thing with alias "$2" if it is empty'
-  'populatetwonatural11':
+  'populatetworandomnatural11':
     'prefix': 'populate the "identifier" thing with alias "text" if it is empty'
     'body': 'populate the "$1" thing with alias "$2" if it is empty'
 
-  'populatetwonatural12':
+  'populatetworandomnatural12':
     'prefix': 'populate the "identifier" thing with "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the "$1" thing with "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwonatural13':
+  'populatetworandomnatural13':
     'prefix': 'populate the alias "identifier" thing with "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the alias "$1" thing with "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwonatural14':
+  'populatetworandomnatural14':
     'prefix': 'populate the alias "identifier" thing with alias "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the alias "$1" thing with alias "$2" with a keystroke delay of "$3" milliseconds'
-  'populatetwonatural15':
+  'populatetworandomnatural15':
     'prefix': 'populate the "identifier" thing with alias "text" with a keystroke delay of "delay" milliseconds'
     'body': 'populate the "$1" thing with alias "$2" with a keystroke delay of "$3" milliseconds'

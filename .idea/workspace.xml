@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ebc7824-4b75-4b27-b447-0c52ebab1c42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iridium-snippets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/iridium-snippets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/populate.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populate.cson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/populatetwohidden.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetwohidden.cson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/populatetwonatural.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetwonatural.cson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/populatetworandom.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetworandom.cson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/block.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/block.cson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/populatethreehidden.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatethreehidden.cson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/sleep.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/sleep.cson" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,40 +24,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="populate.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/populate.cson">
+      <file leaf-file-name="sleep.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/sleep.cson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
+            <state relative-caret-position="15">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populatetworandom.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/populatetworandom.cson">
+      <file leaf-file-name="take.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/take.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="verify.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/verify.cson">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-            </state>
+            <state relative-caret-position="-2917" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="populatetwohidden.cson" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snippets/populatetwohidden.cson">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-            </state>
-          </provider>
+      <file leaf-file-name="verifynatural.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/verifynatural.cson">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="populatetwonatural.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/populatetwonatural.cson">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-            </state>
-          </provider>
+      <file leaf-file-name="wait.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/wait.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="waitclickable.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/waitclickable.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="waitdisplay.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/waitdisplay.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="waitnatural.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/waitnatural.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="waitpresent.cson" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snippets/waitpresent.cson">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="skip.cson" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snippets/skip.cson">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,9 +91,16 @@
       <find>populatetwo</find>
       <find>populatethree4</find>
       <find>populatetwohidden</find>
+      <find>populatethree1</find>
+      <find>populatethreehidden1</find>
+      <find>populatethree</find>
+      <find>populatetwonatural</find>
     </findStrings>
     <replaceStrings>
       <replace>three</replace>
+      <replace>populatetwohidden</replace>
+      <replace>populatethreehidden</replace>
+      <replace>populatetworandomnatural</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -100,6 +120,10 @@
         <option value="$PROJECT_DIR$/snippets/populatetworandom.cson" />
         <option value="$PROJECT_DIR$/snippets/populatetwonatural.cson" />
         <option value="$PROJECT_DIR$/snippets/populatetwohidden.cson" />
+        <option value="$PROJECT_DIR$/snippets/block.cson" />
+        <option value="$PROJECT_DIR$/snippets/populatethreehidden.cson" />
+        <option value="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" />
+        <option value="$PROJECT_DIR$/snippets/sleep.cson" />
       </list>
     </option>
   </component>
@@ -129,6 +153,11 @@
             <path>
               <item name="iridium-snippets" type="b2602c69:ProjectViewProjectNode" />
               <item name="iridium-snippets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iridium-snippets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iridium-snippets" type="462c0819:PsiDirectoryNode" />
+              <item name="snippets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525651931866</updated>
-      <workItem from="1525651935092" duration="404000" />
+      <workItem from="1525651935092" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404000" />
+    <option name="totallyTimeSpent" value="1023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -261,17 +290,116 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/snippets/block.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/allow.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/clear.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/clearnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/clicks.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/clicksnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/copy.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/delete.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/dispatch.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/dispatchnatural.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/dump.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/enable.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/focus.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/focusnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/go.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/headers.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/javascriptevents.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/javascripteventsnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/modify.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/modifynatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/open.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/snippets/populate.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="-1608">
           <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/populatetworandom.cson">
+    <entry file="file://$PROJECT_DIR$/snippets/populatenatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatethree.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        <state relative-caret-position="-3228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatethreehidden.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="258" column="24" selection-start-line="258" selection-start-column="24" selection-end-line="258" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatetwo.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatetwohidden.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -282,12 +410,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/populatetwohidden.cson">
+    <entry file="file://$PROJECT_DIR$/snippets/populatetworandom.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="597">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/press.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/run.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/save.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2791" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/savenatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/select.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/scroll.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/selectnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/set.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/skip.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/sleep.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/take.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/verify.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2917" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/verifynatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/wait.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/waitclickable.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/waitdisplay.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/waitnatural.cson">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/waitpresent.cson">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

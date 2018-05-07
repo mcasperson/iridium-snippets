@@ -2,6 +2,6 @@
   'block1':
     'prefix': 'block access to the URL regex "regex" with response "response"'
     'body': 'block access to the URL regex "$1" with response "$2"'
-  'block1':
+  'block2':
     'prefix': 'block access to the URL regex "regex" of the type "type" with response "response"'
     'body': 'block access to the URL regex "$1" of the type "$2" with response "$3"'
