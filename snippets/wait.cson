@@ -18,10 +18,10 @@
   'wait3':
     'prefix': 'wait "time" seconds for the element found by "identifier" to be present ignoring timeouts'
     'body': 'wait "$1" seconds for the element found by "$2" to be present ignoring timeouts'
-  'wait3':
+  'wait4':
     'prefix': 'wait "time" seconds for the element found by alias "identifier" to be present'
     'body': 'wait "$1" seconds for the element found by alias "$2" to be present'
-  'wait4':
+  'wait5':
     'prefix': 'wait "time" seconds for the element found by alias "identifier" to be present ignoring timeouts'
     'body': 'wait "$1" seconds for the element found by alias "$2" to be present ignoring timeouts'
 

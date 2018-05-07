@@ -6,9 +6,9 @@
   'delete2':
     'prefix': 'delete cookies called "cookie" with the path "path"'
     'body': 'delete cookies called "$1" with the path "$2"'
-  'delete2':
+  'delete3':
     'prefix': 'delete all cookies'
     'body': 'delete all cookies'
-  'delete3':
+  'delete4':
     'prefix': 'delete root AWSELB cookie from the request to the URL regex "regex"'
     'body': 'delete root AWSELB cookie from the request to the URL regex "$1"'

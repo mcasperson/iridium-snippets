@@ -1,5 +1,5 @@
 '.source.feature':
-  'scroll1':
+  'allow1':
     'prefix': 'scroll to the top of the page'
     'body': 'scroll to the top of the page'
   'allow2':

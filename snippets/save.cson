@@ -384,9 +384,6 @@
   'save704':
       'prefix': 'save the content of the first selected option from the drop down list with the xpath of "identifier" to the alias "alias"'
       'body': 'save the content of the first selected option from the drop down list with the xpath of "$1" to the alias "$2"'
-  'save704':
-      'prefix': 'save the content of the first selected option from the drop down list with the class of "identifier" to the alias "alias"'
-      'body': 'save the content of the first selected option from the drop down list with the class of "$1" to the alias "$2"'
   'save705':
       'prefix': 'save the content of the first selected option from the drop down list found by alias "identifier" to the alias "alias"'
       'body': 'save the content of the first selected option from the drop down list found by alias "$1" to the alias "$2"'
@@ -402,3 +399,6 @@
   'save709':
       'prefix': 'save the content of the first selected option from the drop down list with the class alias of "identifier" to the alias "alias"'
       'body': 'save the content of the first selected option from the drop down list with the class alias of "$1" to the alias "$2"'
+  'save710':
+      'prefix': 'save the content of the first selected option from the drop down list with the class of "identifier" to the alias "alias"'
+      'body': 'save the content of the first selected option from the drop down list with the class of "$1" to the alias "$2"'

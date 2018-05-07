@@ -19,37 +19,37 @@
     'prefix': 'dispatch a key press event on the alias "identifier" thing'
     'body': 'dispatch a "keypress" event on the alias "$1" thing'
 
-  'dispatchcustom1':
+  'dispatchnaturalcustom1':
     'prefix': 'dispatch a "change" event on the "identifier" thing'
     'body': 'dispatch a "change" event on the "$1" thing'
-  'dispatchcustom2':
+  'dispatchnaturalcustom2':
     'prefix': 'dispatch a "change" event on the alias "identifier" thing'
     'body': 'dispatch a "change" event on the alias "$1" thing'
-  'dispatchcustom3':
+  'dispatchnaturalcustom3':
     'prefix': 'dispatch a "focus" event on the "identifier" thing'
     'body': 'dispatch a "focus" event on the "$1" thing'
-  'dispatchcustom4':
+  'dispatchnaturalcustom4':
     'prefix': 'dispatch a "focus" event on the alias "identifier" thing'
     'body': 'dispatch a "focus" event on the alias "$1" thing'
 
-  'dispatchcustom30':
+  'dispatchnaturalcustom30':
     'prefix': '"mouseup" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"mouseup" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom31':
+  'dispatchnaturalcustom31':
     'prefix': '"mousedown" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"mousedown" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom32':
+  'dispatchnaturalcustom32':
     'prefix': '"click" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"click" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom33':
+  'dispatchnaturalcustom33':
     'prefix': '"mouseover" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"mouseover" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom34':
+  'dispatchnaturalcustom34':
     'prefix': '"mouseout" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"mouseout" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom35':
+  'dispatchnaturalcustom35':
     'prefix': '"mousemove" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"mousemove" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'
-  'dispatchcustom36':
+  'dispatchnaturalcustom36':
     'prefix': '"dblclick" "##%" horizontally and "##%" vertically within the area of the "identifier" thing'
     'body': '"dblclick" "$1%" horizontally and "$2%" vertically within the area of the "$3" thing'

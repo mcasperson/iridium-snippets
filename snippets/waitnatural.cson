@@ -6,10 +6,10 @@
   'waitnatural3':
     'prefix': 'wait "time" seconds for the "identifier" thing to be present ignoring timeouts'
     'body': 'wait "$1" seconds for the "$2" thing to be present ignoring timeouts'
-  'waitnatural3':
+  'waitnatural4':
     'prefix': 'wait "time" seconds for the alias "identifier" thing to be present'
     'body': 'wait "$1" seconds for the alias "$2" thing to be present'
-  'waitnatural4':
+  'waitnatural5':
     'prefix': 'wait "time" seconds for the alias "identifier" thing to be present ignoring timeouts'
     'body': 'wait "$1" seconds for the alias "$2" thing to be present ignoring timeouts'
 
