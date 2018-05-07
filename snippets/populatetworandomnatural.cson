@@ -1,15 +1,15 @@
 '.source.feature':
 
-  'populatetworandomnatural1':
+  'populatetworandomnatural0':
     'prefix': 'populate the "identifier" thing with "text"'
     'body': 'populate the "$1" thing with "$2"'
-  'populatetworandomnatural2':
+  'populatetworandomnatural1':
     'prefix': 'populate the alias "identifier" thing with "text"'
     'body': 'populate the alias "$1" thing with "$2"'
-  'populatetworandomnatural3':
+  'populatetworandomnatural2':
     'prefix': 'populate the alias "identifier" thing with alias "text"'
     'body': 'populate the alias "$1" thing with alias "$2"'
-  'populatetworandomnatural4':
+  'populatetworandomnatural3':
     'prefix': 'populate the "identifier" thing with alias "text"'
     'body': 'populate the "$1" thing with alias "$2"'
 

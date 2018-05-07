@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ebc7824-4b75-4b27-b447-0c52ebab1c42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/snippets/block.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/block.cson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/populatethreehidden.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatethreehidden.cson" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/sleep.cson" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/sleep.cson" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,14 +67,22 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="waitpresent.cson" pinned="false" current-in-tab="true">
+      <file leaf-file-name="waitpresent.cson" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippets/waitpresent.cson">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="skip.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/skip.cson">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="populatetworandomnatural.cson" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -95,6 +100,7 @@
       <find>populatethreehidden1</find>
       <find>populatethree</find>
       <find>populatetwonatural</find>
+      <find>populatetworandomnatural4</find>
     </findStrings>
     <replaceStrings>
       <replace>three</replace>
@@ -122,8 +128,8 @@
         <option value="$PROJECT_DIR$/snippets/populatetwohidden.cson" />
         <option value="$PROJECT_DIR$/snippets/block.cson" />
         <option value="$PROJECT_DIR$/snippets/populatethreehidden.cson" />
-        <option value="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" />
         <option value="$PROJECT_DIR$/snippets/sleep.cson" />
+        <option value="$PROJECT_DIR$/snippets/populatetworandomnatural.cson" />
       </list>
     </option>
   </component>
@@ -242,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525651931866</updated>
-      <workItem from="1525651935092" duration="1023000" />
+      <workItem from="1525651935092" duration="1091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1023000" />
+    <option name="totallyTimeSpent" value="1091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -417,13 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/snippets/press.cson">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -484,7 +483,18 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/waitpresent.cson">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/populatetworandomnatural.cson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
